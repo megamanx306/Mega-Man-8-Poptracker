@@ -1,0 +1,3368 @@
+[
+  {
+    "name": "Frost Man - Defeated",
+    "visibility_rules": [
+      "$mm8_visible|5480000"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 8109,
+        "y": 511,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Frost Man - Defeated",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480000"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Marker matched to the supplied screenshot on the whole-stage map and corresponding enlarged views.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Frost Man - Bolt 1",
+    "visibility_rules": [
+      "$mm8_visible|5480102"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 2886,
+        "y": 227,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Frost Man - Bolt 1",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480102"
+        ]
+      },
+      {
+        "name": "Guide route: Snowboard upper passage",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Frost Man - Bolt 3",
+    "visibility_rules": [
+      "$mm8_visible|5480103"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 1800,
+        "y": 1024,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Frost Man - Bolt 3",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480103"
+        ]
+      },
+      {
+        "name": "Tornado Hold: green. Mega Ball airborne jump: yellow if Tornado Hold is missing. Neither: red.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Frost Man - Bolt 4",
+    "visibility_rules": [
+      "$mm8_visible|5480104"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 2044,
+        "y": 1064,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Frost Man - Bolt 4",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480104"
+        ]
+      },
+      {
+        "name": "Guide route: Ice-pusher block puzzle",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Frost Man - Bolt 6",
+    "visibility_rules": [
+      "$mm8_visible|5480105"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 2518,
+        "y": 921,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Frost Man - Bolt 6",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480105"
+        ]
+      },
+      {
+        "name": "Confirmed: Astro Crush AND (Mega Ball OR Tornado Hold). Astro Crush cannot be replaced by Flash Bomb or Flame Sword.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Frost Man - Bolt 5",
+    "visibility_rules": [
+      "$mm8_visible|5480106"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 2588,
+        "y": 1159,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Frost Man - Bolt 5",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480106"
+        ]
+      },
+      {
+        "name": "Room reference \u2014 hidden bolt pixel unverified",
+        "item_count": 0
+      },
+      {
+        "name": "Guide route: Breakable frozen floor",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Frost Man - Bolt 2",
+    "visibility_rules": [
+      "$mm8_visible|5480123"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 6609,
+        "y": 339,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Frost Man - Bolt 2",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480123"
+        ]
+      },
+      {
+        "name": "Guide route: Falling-block lower landing",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Frost Man - Large Life Energy 1",
+    "visibility_rules": [
+      "$mm8_visible|5480300"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 1729,
+        "y": 138,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Frost Man - Large Life Energy 1",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480300"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Frost Man - Large Life Energy 2",
+    "visibility_rules": [
+      "$mm8_visible|5480301"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 1966,
+        "y": 1048,
+        "size": 40
+      }
+    ],
+    "sections": [
+      {
+        "name": "Frost Man - Large Life Energy 2",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480301"
+        ]
+      },
+      {
+        "name": "Screenshot-confirmed Energy 2: after Bolt 3, at the marked orange platform. Tornado Hold is green; airborne Mega Ball jumps are yellow.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Frost Man - Large Life Energy 3",
+    "visibility_rules": [
+      "$mm8_visible|5480302"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 2409,
+        "y": 1025,
+        "size": 48
+      }
+    ],
+    "sections": [
+      {
+        "name": "Frost Man - Large Life Energy 3",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480302"
+        ]
+      },
+      {
+        "name": "Playtest field Energy 4: before the tower; AP server name remains Large Life Energy 3. Tornado Hold is green; Mega Ball airborne jumps are yellow.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Frost Man - Large Life Energy 4",
+    "visibility_rules": [
+      "$mm8_visible|5480303"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 4952,
+        "y": 525,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Frost Man - Large Life Energy 4",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480303"
+        ]
+      },
+      {
+        "name": "Playtest field Energy 6: second Jump/Slide area. AP server name remains Large Life Energy 4.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Frost Man - Large Weapon Energy 1",
+    "visibility_rules": [
+      "$mm8_visible|5480304"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 4963,
+        "y": 525,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Frost Man - Large Weapon Energy 1",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480304"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Frost Man - Small Life Energy 1",
+    "visibility_rules": [
+      "$mm8_visible|5480305"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 6750,
+        "y": 535,
+        "size": 48
+      }
+    ],
+    "sections": [
+      {
+        "name": "Frost Man - Small Life Energy 1",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480305"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Final refill row: equip a special weapon and drain some weapon energy before collecting weapon refills. Pickup insanity must be enabled.",
+        "item_count": 0
+      },
+      {
+        "name": "Collection tip: Lower some weapon energy and stay to the far left. Highlighted refill-row reference; source atlas masks the pickup sprites.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Frost Man - Small Life Energy 2",
+    "visibility_rules": [
+      "$mm8_visible|5480306"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 6900,
+        "y": 535,
+        "size": 48
+      }
+    ],
+    "sections": [
+      {
+        "name": "Frost Man - Small Life Energy 2",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480306"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Final refill row: equip a special weapon and drain some weapon energy before collecting weapon refills. Pickup insanity must be enabled.",
+        "item_count": 0
+      },
+      {
+        "name": "Collection tip: Lower some weapon energy and stay to the far left. Highlighted refill-row reference; source atlas masks the pickup sprites.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Frost Man - Small Life Energy 3",
+    "visibility_rules": [
+      "$mm8_visible|5480307"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 7050,
+        "y": 535,
+        "size": 48
+      }
+    ],
+    "sections": [
+      {
+        "name": "Frost Man - Small Life Energy 3",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480307"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Final refill row: equip a special weapon and drain some weapon energy before collecting weapon refills. Pickup insanity must be enabled.",
+        "item_count": 0
+      },
+      {
+        "name": "Collection tip: Lower some weapon energy and stay to the far left. Highlighted refill-row reference; source atlas masks the pickup sprites.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Frost Man - Small Life Energy 4",
+    "visibility_rules": [
+      "$mm8_visible|5480308"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 7200,
+        "y": 535,
+        "size": 48
+      }
+    ],
+    "sections": [
+      {
+        "name": "Frost Man - Small Life Energy 4",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480308"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Final refill row: equip a special weapon and drain some weapon energy before collecting weapon refills. Pickup insanity must be enabled.",
+        "item_count": 0
+      },
+      {
+        "name": "Collection tip: Lower some weapon energy and stay to the far left. Highlighted refill-row reference; source atlas masks the pickup sprites.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Frost Man - Small Life Energy 5",
+    "visibility_rules": [
+      "$mm8_visible|5480309"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 7350,
+        "y": 535,
+        "size": 48
+      }
+    ],
+    "sections": [
+      {
+        "name": "Frost Man - Small Life Energy 5",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480309"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Final refill row: equip a special weapon and drain some weapon energy before collecting weapon refills. Pickup insanity must be enabled.",
+        "item_count": 0
+      },
+      {
+        "name": "Collection tip: Lower some weapon energy and stay to the far left. Highlighted refill-row reference; source atlas masks the pickup sprites.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Frost Man - Small Life Energy 6",
+    "visibility_rules": [
+      "$mm8_visible|5480310"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 7500,
+        "y": 535,
+        "size": 48
+      }
+    ],
+    "sections": [
+      {
+        "name": "Frost Man - Small Life Energy 6",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480310"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Final refill row: equip a special weapon and drain some weapon energy before collecting weapon refills. Pickup insanity must be enabled.",
+        "item_count": 0
+      },
+      {
+        "name": "Collection tip: Lower some weapon energy and stay to the far left. Highlighted refill-row reference; source atlas masks the pickup sprites.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Frost Man - Small Weapon Energy 1",
+    "visibility_rules": [
+      "$mm8_visible|5480311"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 6825,
+        "y": 535,
+        "size": 48
+      }
+    ],
+    "sections": [
+      {
+        "name": "Frost Man - Small Weapon Energy 1",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480311"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Final refill row: equip a special weapon and drain some weapon energy before collecting weapon refills. Pickup insanity must be enabled.",
+        "item_count": 0
+      },
+      {
+        "name": "Collection tip: Lower some weapon energy and stay to the far left. Highlighted refill-row reference; source atlas masks the pickup sprites.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Frost Man - Small Weapon Energy 2",
+    "visibility_rules": [
+      "$mm8_visible|5480312"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 6975,
+        "y": 535,
+        "size": 48
+      }
+    ],
+    "sections": [
+      {
+        "name": "Frost Man - Small Weapon Energy 2",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480312"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Final refill row: equip a special weapon and drain some weapon energy before collecting weapon refills. Pickup insanity must be enabled.",
+        "item_count": 0
+      },
+      {
+        "name": "Collection tip: Lower some weapon energy and stay to the far left. Highlighted refill-row reference; source atlas masks the pickup sprites.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Frost Man - Large Weapon Energy 2",
+    "visibility_rules": [
+      "$mm8_visible|5480313"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 7125,
+        "y": 535,
+        "size": 48
+      }
+    ],
+    "sections": [
+      {
+        "name": "Frost Man - Large Weapon Energy 2",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480313"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Final refill row: equip a special weapon and drain some weapon energy before collecting weapon refills. Pickup insanity must be enabled.",
+        "item_count": 0
+      },
+      {
+        "name": "Collection tip: Lower some weapon energy and stay to the far left. Highlighted refill-row reference; source atlas masks the pickup sprites.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Frost Man - Small Weapon Energy 3",
+    "visibility_rules": [
+      "$mm8_visible|5480314"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 7275,
+        "y": 535,
+        "size": 48
+      }
+    ],
+    "sections": [
+      {
+        "name": "Frost Man - Small Weapon Energy 3",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480314"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Final refill row: equip a special weapon and drain some weapon energy before collecting weapon refills. Pickup insanity must be enabled.",
+        "item_count": 0
+      },
+      {
+        "name": "Collection tip: Lower some weapon energy and stay to the far left. Highlighted refill-row reference; source atlas masks the pickup sprites.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Frost Man - Weapon Energy Refill",
+    "visibility_rules": [
+      "$mm8_visible|5480315"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 7425,
+        "y": 535,
+        "size": 48
+      }
+    ],
+    "sections": [
+      {
+        "name": "Frost Man - Weapon Energy Refill",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480315"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Final refill row: equip a special weapon and drain some weapon energy before collecting weapon refills. Pickup insanity must be enabled.",
+        "item_count": 0
+      },
+      {
+        "name": "Collection tip: Lower some weapon energy and stay to the far left. Highlighted refill-row reference; source atlas masks the pickup sprites.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Clown Man - Defeated",
+    "visibility_rules": [
+      "$mm8_visible|5480001"
+    ],
+    "map_locations": [
+      {
+        "map": "full1",
+        "x": 8120,
+        "y": 325,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Clown Man - Defeated",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480001"
+        ]
+      },
+      {
+        "name": "Playtest: Clown Man boss arena",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Clown Man - Mid-boss",
+    "visibility_rules": [
+      "$mm8_visible|5480011"
+    ],
+    "map_locations": [
+      {
+        "map": "full1",
+        "x": 4802,
+        "y": 888,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Clown Man - Mid-boss",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480011"
+        ]
+      },
+      {
+        "name": "Playtest: Clown Man mid-boss room reference",
+        "item_count": 0
+      },
+      {
+        "name": "2026-10-05 screenshot: center of marked miniboss arena",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Clown Man - Bolt 3",
+    "visibility_rules": [
+      "$mm8_visible|5480107"
+    ],
+    "map_locations": [
+      {
+        "map": "full1",
+        "x": 6317,
+        "y": 691,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Clown Man - Bolt 3",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480107"
+        ]
+      },
+      {
+        "name": "Guide route: Elevator hall container",
+        "item_count": 0
+      },
+      {
+        "name": "Route audit: Barrel bolt: Flame Sword AND (Mega Ball OR Tornado Hold).",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Clown Man - Bolt 4",
+    "visibility_rules": [
+      "$mm8_visible|5480108"
+    ],
+    "map_locations": [
+      {
+        "map": "full1",
+        "x": 6728,
+        "y": 675,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Clown Man - Bolt 4",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480108"
+        ]
+      },
+      {
+        "name": "Tornado Hold: green. Mega Ball airborne jump: yellow if Tornado Hold is missing. Neither: red.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Clown Man - Bolt 5",
+    "visibility_rules": [
+      "$mm8_visible|5480109"
+    ],
+    "map_locations": [
+      {
+        "map": "full1",
+        "x": 7400,
+        "y": 926,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Clown Man - Bolt 5",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480109"
+        ]
+      },
+      {
+        "name": "Tornado Hold: green. Mega Ball airborne jump: yellow if Tornado Hold is missing. Neither: red.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Clown Man - Bolt 1",
+    "visibility_rules": [
+      "$mm8_visible|5480110"
+    ],
+    "map_locations": [
+      {
+        "map": "full1",
+        "x": 1129,
+        "y": 664,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Clown Man - Bolt 1",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480110"
+        ]
+      },
+      {
+        "name": "Rush Bike is green; airborne Mega Ball jumps are yellow; otherwise red.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Clown Man - Bolt 2",
+    "visibility_rules": [
+      "$mm8_visible|5480122"
+    ],
+    "map_locations": [
+      {
+        "map": "full1",
+        "x": 5287,
+        "y": 828,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Clown Man - Bolt 2",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480122"
+        ]
+      },
+      {
+        "name": "Guide route: Shield robot checkpoint",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Tengu Man - Defeated",
+    "visibility_rules": [
+      "$mm8_visible|5480002"
+    ],
+    "map_locations": [
+      {
+        "map": "full4",
+        "x": 8040,
+        "y": 80,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Tengu Man - Defeated",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480002"
+        ]
+      },
+      {
+        "name": "Playtest: Tengu Man boss arena",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Tengu Man - Bolt 1",
+    "visibility_rules": [
+      "$mm8_visible|5480111"
+    ],
+    "map_locations": [
+      {
+        "map": "full4",
+        "x": 936,
+        "y": 754,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Tengu Man - Bolt 1",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480111"
+        ]
+      },
+      {
+        "name": "Guide route: Windborne rising platforms",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Tengu Man - Bolt 3",
+    "visibility_rules": [
+      "$mm8_visible|5480112"
+    ],
+    "map_locations": [
+      {
+        "map": "full4",
+        "x": 5868,
+        "y": 564,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Tengu Man - Bolt 3",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480112"
+        ]
+      },
+      {
+        "name": "Guide route: Beyond airship cannon",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Tengu Man - Bolt 4",
+    "visibility_rules": [
+      "$mm8_visible|5480113"
+    ],
+    "map_locations": [
+      {
+        "map": "full4",
+        "x": 6784,
+        "y": 219,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Tengu Man - Bolt 4",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480113"
+        ]
+      },
+      {
+        "name": "Guide route: Final low platform",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Tengu Man - Bolt 2",
+    "visibility_rules": [
+      "$mm8_visible|5480114"
+    ],
+    "map_locations": [
+      {
+        "map": "full4",
+        "x": 5608,
+        "y": 556,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Tengu Man - Bolt 2",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480114"
+        ]
+      },
+      {
+        "name": "Room reference \u2014 hidden bolt pixel unverified",
+        "item_count": 0
+      },
+      {
+        "name": "Guide route: Airship cannon panel",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Tengu Man - Large Life Energy 1",
+    "visibility_rules": [
+      "$mm8_visible|5480316"
+    ],
+    "map_locations": [
+      {
+        "map": "full4",
+        "x": 6424,
+        "y": 220,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Tengu Man - Large Life Energy 1",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480316"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tengu Man - Large Life Energy 2",
+    "visibility_rules": [
+      "$mm8_visible|5480317"
+    ],
+    "map_locations": [
+      {
+        "map": "full4",
+        "x": 7208,
+        "y": 204,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Tengu Man - Large Life Energy 2",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480317"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Grenade Man - Defeated",
+    "visibility_rules": [
+      "$mm8_visible|5480003"
+    ],
+    "map_locations": [
+      {
+        "map": "full3",
+        "x": 8100,
+        "y": 312,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Grenade Man - Defeated",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480003"
+        ]
+      },
+      {
+        "name": "Playtest: Grenade Man boss room",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Grenade Man - Mid-boss",
+    "visibility_rules": [
+      "$mm8_visible|5480010"
+    ],
+    "map_locations": [
+      {
+        "map": "full3",
+        "x": 4232,
+        "y": 265,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Grenade Man - Mid-boss",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480010"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Marker matched to the supplied screenshot on the whole-stage map and corresponding enlarged views.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Grenade Man - Bolt 1",
+    "visibility_rules": [
+      "$mm8_visible|5480115"
+    ],
+    "map_locations": [
+      {
+        "map": "full3",
+        "x": 2348,
+        "y": 249,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Grenade Man - Bolt 1",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480115"
+        ]
+      },
+      {
+        "name": "Guide route: Stacked block puzzle",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Grenade Man - Bolt 3",
+    "visibility_rules": [
+      "$mm8_visible|5480116"
+    ],
+    "map_locations": [
+      {
+        "map": "full3",
+        "x": 4951,
+        "y": 175,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Grenade Man - Bolt 3",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480116"
+        ]
+      },
+      {
+        "name": "Guide route: Hammer-area hidden fuse",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Grenade Man - Bolt 4",
+    "visibility_rules": [
+      "$mm8_visible|5480117"
+    ],
+    "map_locations": [
+      {
+        "map": "full3",
+        "x": 6163,
+        "y": 143,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Grenade Man - Bolt 4",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480117"
+        ]
+      },
+      {
+        "name": "Guide route: Exploding platform crossing",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Grenade Man - Bolt 5",
+    "visibility_rules": [
+      "$mm8_visible|5480118"
+    ],
+    "map_locations": [
+      {
+        "map": "full3",
+        "x": 6874,
+        "y": 143,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Grenade Man - Bolt 5",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480118"
+        ]
+      },
+      {
+        "name": "Guide route: Exploding platform ladder",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Grenade Man - Bolt 2",
+    "visibility_rules": [
+      "$mm8_visible|5480132"
+    ],
+    "map_locations": [
+      {
+        "map": "full3",
+        "x": 3644,
+        "y": 228,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Grenade Man - Bolt 2",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480132"
+        ]
+      },
+      {
+        "name": "Guide route: Timed-bomb platform",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Grenade Man - Large Life Energy 1",
+    "visibility_rules": [
+      "$mm8_visible|5480318"
+    ],
+    "map_locations": [
+      {
+        "map": "full3",
+        "x": 5137,
+        "y": 37,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Grenade Man - Large Life Energy 1",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480318"
+        ]
+      },
+      {
+        "name": "Confirmed accessible without Flame Sword or Mega Ball.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Grenade Man - Large Life Energy 2",
+    "visibility_rules": [
+      "$mm8_visible|5480319"
+    ],
+    "map_locations": [
+      {
+        "map": "full3",
+        "x": 6519,
+        "y": 144,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Grenade Man - Large Life Energy 2",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480319"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sword Man - Defeated",
+    "visibility_rules": [
+      "$mm8_visible|5480004"
+    ],
+    "map_locations": [
+      {
+        "map": "full9",
+        "x": 5240,
+        "y": 648,
+        "size": 64
+      }
+    ],
+    "sections": [
+      {
+        "name": "Sword Man - Defeated",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480004"
+        ]
+      },
+      {
+        "name": "Playtest: Sword Man boss room",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Sword Man - Mid-boss",
+    "visibility_rules": [
+      "$mm8_visible|5480012"
+    ],
+    "map_locations": [
+      {
+        "map": "full9",
+        "x": 1451,
+        "y": 1145,
+        "size": 64
+      }
+    ],
+    "sections": [
+      {
+        "name": "Sword Man - Mid-boss",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480012"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Marker matched to the supplied screenshot on the whole-stage map and corresponding enlarged views.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Sword Man - Bolt 1",
+    "visibility_rules": [
+      "$mm8_visible|5480119"
+    ],
+    "map_locations": [
+      {
+        "map": "full9",
+        "x": 2064,
+        "y": 1751,
+        "size": 64
+      }
+    ],
+    "sections": [
+      {
+        "name": "Sword Man - Bolt 1",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480119"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Bolt 1: Flash Bomb trial room; no extra weapon gate for this pickup.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Sword Man - Bolt 2",
+    "visibility_rules": [
+      "$mm8_visible|5480120"
+    ],
+    "map_locations": [
+      {
+        "map": "full9",
+        "x": 736,
+        "y": 1735,
+        "size": 64
+      }
+    ],
+    "sections": [
+      {
+        "name": "Sword Man - Bolt 2",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480120"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Bolt 2: Thunder Claw trial room; Thunder Claw required.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Sword Man - Bolt 3",
+    "visibility_rules": [
+      "$mm8_visible|5480121"
+    ],
+    "map_locations": [
+      {
+        "map": "full9",
+        "x": 3984,
+        "y": 135,
+        "size": 64
+      }
+    ],
+    "sections": [
+      {
+        "name": "Sword Man - Bolt 3",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480121"
+        ]
+      },
+      {
+        "name": "Guide route: Lava-raft breakable wall",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Sword Man - Large Life Energy 1",
+    "visibility_rules": [
+      "$mm8_visible|5480320"
+    ],
+    "map_locations": [
+      {
+        "map": "full9",
+        "x": 1248,
+        "y": 952,
+        "size": 64
+      }
+    ],
+    "sections": [
+      {
+        "name": "Sword Man - Large Life Energy 1",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480320"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sword Man - Large Life Energy 2",
+    "visibility_rules": [
+      "$mm8_visible|5480321"
+    ],
+    "map_locations": [
+      {
+        "map": "full9",
+        "x": 440,
+        "y": 1976,
+        "size": 64
+      }
+    ],
+    "sections": [
+      {
+        "name": "Sword Man - Large Life Energy 2",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480321"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Life energy 2: Thunder Claw trial room; Thunder Claw required.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Sword Man - Large Life Energy 3",
+    "visibility_rules": [
+      "$mm8_visible|5480322"
+    ],
+    "map_locations": [
+      {
+        "map": "full9",
+        "x": 3792,
+        "y": 696,
+        "size": 64
+      }
+    ],
+    "sections": [
+      {
+        "name": "Sword Man - Large Life Energy 3",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480322"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Life energy 3: after the trials; all four trial weapons required.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Aqua Man - Defeated",
+    "visibility_rules": [
+      "$mm8_visible|5480005"
+    ],
+    "map_locations": [
+      {
+        "map": "full6",
+        "x": 7670,
+        "y": 4350,
+        "size": 94
+      }
+    ],
+    "sections": [
+      {
+        "name": "Aqua Man - Defeated",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480005"
+        ]
+      },
+      {
+        "name": "Playtest: Aqua Man boss arena",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Aqua Man - Mid-boss",
+    "visibility_rules": [
+      "$mm8_visible|5480013"
+    ],
+    "map_locations": [
+      {
+        "map": "full6",
+        "x": 3000,
+        "y": 1427,
+        "size": 94
+      }
+    ],
+    "sections": [
+      {
+        "name": "Aqua Man - Mid-boss",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480013"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Marker matched to the supplied screenshot on the whole-stage map and corresponding enlarged views.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Aqua Man - Bolt 2",
+    "visibility_rules": [
+      "$mm8_visible|5480124"
+    ],
+    "map_locations": [
+      {
+        "map": "full6",
+        "x": 5000,
+        "y": 1735,
+        "size": 94
+      }
+    ],
+    "sections": [
+      {
+        "name": "Aqua Man - Bolt 2",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480124"
+        ]
+      },
+      {
+        "name": "Guide route: Spiked-ball narrow passage",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Aqua Man - Bolt 3",
+    "visibility_rules": [
+      "$mm8_visible|5480125"
+    ],
+    "map_locations": [
+      {
+        "map": "full6",
+        "x": 5528,
+        "y": 2791,
+        "size": 94
+      }
+    ],
+    "sections": [
+      {
+        "name": "Aqua Man - Bolt 3",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480125"
+        ]
+      },
+      {
+        "name": "Guide route: Upper shaft refill-ledge",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Aqua Man - Bolt 4",
+    "visibility_rules": [
+      "$mm8_visible|5480126"
+    ],
+    "map_locations": [
+      {
+        "map": "full6",
+        "x": 5904,
+        "y": 3191,
+        "size": 94
+      }
+    ],
+    "sections": [
+      {
+        "name": "Aqua Man - Bolt 4",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480126"
+        ]
+      },
+      {
+        "name": "Guide route: Raised-water spike route",
+        "item_count": 0
+      },
+      {
+        "name": "Route audit: Lower underwater route: Astro Crush must raise the water.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Aqua Man - Bolt 1",
+    "visibility_rules": [
+      "$mm8_visible|5480127"
+    ],
+    "map_locations": [
+      {
+        "map": "full6",
+        "x": 3856,
+        "y": 1319,
+        "size": 94
+      }
+    ],
+    "sections": [
+      {
+        "name": "Aqua Man - Bolt 1",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480127"
+        ]
+      },
+      {
+        "name": "Guide route: Underwater damaged ceiling",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Aqua Man - Large Weapon Energy 1",
+    "visibility_rules": [
+      "$mm8_visible|5480323"
+    ],
+    "map_locations": [
+      {
+        "map": "full6",
+        "x": 3616,
+        "y": 1288,
+        "size": 94
+      }
+    ],
+    "sections": [
+      {
+        "name": "Aqua Man - Large Weapon Energy 1",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480323"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Man - Large Life Energy 1",
+    "visibility_rules": [
+      "$mm8_visible|5480324"
+    ],
+    "map_locations": [
+      {
+        "map": "full6",
+        "x": 4998,
+        "y": 1640,
+        "size": 94
+      }
+    ],
+    "sections": [
+      {
+        "name": "Aqua Man - Large Life Energy 1",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480324"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Man - Large Weapon Energy 2",
+    "visibility_rules": [
+      "$mm8_visible|5480325"
+    ],
+    "map_locations": [
+      {
+        "map": "full6",
+        "x": 5576,
+        "y": 2792,
+        "size": 94
+      }
+    ],
+    "sections": [
+      {
+        "name": "Aqua Man - Large Weapon Energy 2",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480325"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Man - Large Life Energy 2",
+    "visibility_rules": [
+      "$mm8_visible|5480326"
+    ],
+    "map_locations": [
+      {
+        "map": "full6",
+        "x": 5552,
+        "y": 2792,
+        "size": 94
+      }
+    ],
+    "sections": [
+      {
+        "name": "Aqua Man - Large Life Energy 2",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480326"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Man - Large Life Energy 3",
+    "visibility_rules": [
+      "$mm8_visible|5480327"
+    ],
+    "map_locations": [
+      {
+        "map": "full6",
+        "x": 5928,
+        "y": 1912,
+        "size": 94
+      }
+    ],
+    "sections": [
+      {
+        "name": "Aqua Man - Large Life Energy 3",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480327"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Man - Large Life Energy 4",
+    "visibility_rules": [
+      "$mm8_visible|5480328"
+    ],
+    "map_locations": [
+      {
+        "map": "full6",
+        "x": 6000,
+        "y": 4024,
+        "size": 94
+      }
+    ],
+    "sections": [
+      {
+        "name": "Aqua Man - Large Life Energy 4",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480328"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Man - Large Weapon Energy 3",
+    "visibility_rules": [
+      "$mm8_visible|5480329"
+    ],
+    "map_locations": [
+      {
+        "map": "full6",
+        "x": 5968,
+        "y": 4024,
+        "size": 94
+      }
+    ],
+    "sections": [
+      {
+        "name": "Aqua Man - Large Weapon Energy 3",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480329"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Man - Large Life Energy 5",
+    "visibility_rules": [
+      "$mm8_visible|5480330"
+    ],
+    "map_locations": [
+      {
+        "map": "full6",
+        "x": 6816,
+        "y": 4632,
+        "size": 94
+      }
+    ],
+    "sections": [
+      {
+        "name": "Aqua Man - Large Life Energy 5",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480330"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Astro Man - Defeated",
+    "visibility_rules": [
+      "$mm8_visible|5480006"
+    ],
+    "map_locations": [
+      {
+        "map": "full7",
+        "x": 8120,
+        "y": 1790,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Astro Man - Defeated",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480006"
+        ]
+      },
+      {
+        "name": "Playtest: Astro Man boss room",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Astro Man - Bolt 1",
+    "visibility_rules": [
+      "$mm8_visible|5480128"
+    ],
+    "map_locations": [
+      {
+        "map": "full7",
+        "x": 3217,
+        "y": 1843,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Astro Man - Bolt 1",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480128"
+        ]
+      },
+      {
+        "name": "Guide route: First maze switch",
+        "item_count": 0
+      },
+      {
+        "name": "Route audit: First maze switch route: no special weapon required.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Astro Man - Bolt 2",
+    "visibility_rules": [
+      "$mm8_visible|5480129"
+    ],
+    "map_locations": [
+      {
+        "map": "full7",
+        "x": 3405,
+        "y": 430,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Astro Man - Bolt 2",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480129"
+        ]
+      },
+      {
+        "name": "Guide route: Sinking-tower side pocket",
+        "item_count": 0
+      },
+      {
+        "name": "Route audit: Collapsing tower: no special weapon required.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Astro Man - Bolt 3",
+    "visibility_rules": [
+      "$mm8_visible|5480130"
+    ],
+    "map_locations": [
+      {
+        "map": "full7",
+        "x": 5351,
+        "y": 1968,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Astro Man - Bolt 3",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480130"
+        ]
+      },
+      {
+        "name": "Guide route: Second outdoor wall",
+        "item_count": 0
+      },
+      {
+        "name": "Route audit: Second platform field: no special weapon required.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Astro Man - Bolt 4",
+    "visibility_rules": [
+      "$mm8_visible|5480131"
+    ],
+    "map_locations": [
+      {
+        "map": "full7",
+        "x": 6474,
+        "y": 1858,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Astro Man - Bolt 4",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480131"
+        ]
+      },
+      {
+        "name": "Guide route: Second maze barriers",
+        "item_count": 0
+      },
+      {
+        "name": "Route audit: Second maze wall: Mega Ball OR Tornado Hold.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Astro Man - Large Life Energy",
+    "visibility_rules": [
+      "$mm8_visible|5480331"
+    ],
+    "map_locations": [
+      {
+        "map": "full7",
+        "x": 3484,
+        "y": 934,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Astro Man - Large Life Energy",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480331"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Astro Man - Large Weapon Energy",
+    "visibility_rules": [
+      "$mm8_visible|5480332"
+    ],
+    "map_locations": [
+      {
+        "map": "full7",
+        "x": 3507,
+        "y": 934,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Astro Man - Large Weapon Energy",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480332"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Search Man - Defeated",
+    "visibility_rules": [
+      "$mm8_visible|5480007"
+    ],
+    "map_locations": [
+      {
+        "map": "full8",
+        "x": 8090,
+        "y": 598,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Search Man - Defeated",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480007"
+        ]
+      },
+      {
+        "name": "APWorld 0.2.2: Search doors open to any weapon, including the Mega Buster. Tornado Hold is not required.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Search Man - Bolt 1",
+    "visibility_rules": [
+      "$mm8_visible|5480134"
+    ],
+    "map_locations": [
+      {
+        "map": "full8",
+        "x": 1914,
+        "y": 1072,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Search Man - Bolt 1",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480134"
+        ]
+      },
+      {
+        "name": "Screenshot-confirmed early foreground tunnel position; no weapon requirement.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Search Man - Bolt 3 (0.2.1; legacy Bolt 2)",
+    "visibility_rules": [
+      "$mm8_visible|5480135"
+    ],
+    "map_locations": [
+      {
+        "map": "full8",
+        "x": 2907,
+        "y": 1026,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Search Man - Bolt 3 (0.2.1; legacy Bolt 2)",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480135"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Bolt 2: lower thorn cluster; Flame Sword required.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Search Man - Bolt 2 (0.2.1; legacy Bolt 3)",
+    "visibility_rules": [
+      "$mm8_visible|5480136"
+    ],
+    "map_locations": [
+      {
+        "map": "full8",
+        "x": 2979,
+        "y": 337,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Search Man - Bolt 2 (0.2.1; legacy Bolt 3)",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480136"
+        ]
+      },
+      {
+        "name": "Confirmed: Thunder Claw AND Tornado Hold is green; airborne Mega Ball jumps alone are yellow.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Search Man - Bolt 4",
+    "visibility_rules": [
+      "$mm8_visible|5480137"
+    ],
+    "map_locations": [
+      {
+        "map": "full8",
+        "x": 5337,
+        "y": 351,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Search Man - Bolt 4",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480137"
+        ]
+      },
+      {
+        "name": "Guide route: Later spike hooks",
+        "item_count": 0
+      },
+      {
+        "name": "Route audit: Later spike-hook bolt: Thunder Claw required.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Search Man - Large Life Energy",
+    "visibility_rules": [
+      "$mm8_visible|5480333"
+    ],
+    "map_locations": [
+      {
+        "map": "full8",
+        "x": 2413,
+        "y": 834,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Search Man - Large Life Energy",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480333"
+        ]
+      },
+      {
+        "name": "Thunder Claw is green; airborne Mega Ball jumps are yellow.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Search Man - Large Weapon Energy",
+    "visibility_rules": [
+      "$mm8_visible|5480334"
+    ],
+    "map_locations": [
+      {
+        "map": "full8",
+        "x": 2441,
+        "y": 834,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Search Man - Large Weapon Energy",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480334"
+        ]
+      },
+      {
+        "name": "Thunder Claw is green; airborne Mega Ball jumps are yellow.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Intro Stage - Mega Ball",
+    "visibility_rules": [
+      "$mm8_visible|5480020"
+    ],
+    "map_locations": [
+      {
+        "map": "full0",
+        "x": 2057,
+        "y": 209,
+        "size": 66
+      }
+    ],
+    "sections": [
+      {
+        "name": "Intro Stage - Mega Ball",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480020"
+        ]
+      },
+      {
+        "name": "Playtest: User screenshot: Mega Ball gift on the surface path before the underground entrance",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Intro Stage - Bolt 3",
+    "visibility_rules": [
+      "$mm8_visible|5480100"
+    ],
+    "map_locations": [
+      {
+        "map": "full0",
+        "x": 2736,
+        "y": 727,
+        "size": 24
+      }
+    ],
+    "sections": [
+      {
+        "name": "Intro Stage - Bolt 3",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480100"
+        ]
+      },
+      {
+        "name": "Guide route: Water exit elevator",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Intro Stage - Bolt 2",
+    "visibility_rules": [
+      "$mm8_visible|5480101"
+    ],
+    "map_locations": [
+      {
+        "map": "full0",
+        "x": 3328,
+        "y": 839,
+        "size": 24
+      }
+    ],
+    "sections": [
+      {
+        "name": "Intro Stage - Bolt 2",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480101"
+        ]
+      },
+      {
+        "name": "Guide route: Descending chain alcove",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Intro Stage - Bolt 1",
+    "visibility_rules": [
+      "$mm8_visible|5480133"
+    ],
+    "map_locations": [
+      {
+        "map": "full0",
+        "x": 3536,
+        "y": 407,
+        "size": 24
+      }
+    ],
+    "sections": [
+      {
+        "name": "Intro Stage - Bolt 1",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480133"
+        ]
+      },
+      {
+        "name": "Guide route: Crab elevator secret",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Intro Stage - Large Life Energy",
+    "visibility_rules": [
+      "$mm8_visible|5480335"
+    ],
+    "map_locations": [
+      {
+        "map": "full0",
+        "x": 3152,
+        "y": 216,
+        "size": 24
+      }
+    ],
+    "sections": [
+      {
+        "name": "Intro Stage - Large Life Energy",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480335"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Duo - Stage Clear",
+    "visibility_rules": [
+      "$mm8_visible|5480021"
+    ],
+    "map_locations": [
+      {
+        "map": "full5",
+        "x": 1230,
+        "y": 1470,
+        "size": 24
+      }
+    ],
+    "sections": [
+      {
+        "name": "Duo - Stage Clear",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480021"
+        ]
+      },
+      {
+        "name": "Playtest: Duo clear",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Duo - Bolt 1",
+    "visibility_rules": [
+      "$mm8_visible|5480138"
+    ],
+    "map_locations": [
+      {
+        "map": "full5",
+        "x": 304,
+        "y": 135,
+        "size": 28
+      }
+    ],
+    "sections": [
+      {
+        "name": "Duo - Bolt 1",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480138"
+        ]
+      },
+      {
+        "name": "Confirmed: Mega Ball OR Tornado Hold; no Thunder Claw requirement.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Duo - Bolt 2",
+    "visibility_rules": [
+      "$mm8_visible|5480139"
+    ],
+    "map_locations": [
+      {
+        "map": "full5",
+        "x": 928,
+        "y": 151,
+        "size": 28
+      }
+    ],
+    "sections": [
+      {
+        "name": "Duo - Bolt 2",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480139"
+        ]
+      },
+      {
+        "name": "Confirmed: Mega Ball OR Tornado Hold; no Thunder Claw requirement.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Wily Stage 1 - Clear",
+    "visibility_rules": [
+      "$mm8_visible|5480022"
+    ],
+    "map_locations": [
+      {
+        "map": "full10",
+        "x": 8100,
+        "y": 265,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily Stage 1 - Clear",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480022"
+        ]
+      },
+      {
+        "name": "Playtest: Wily 1 boss clear \u2014 room reference; exact pickup pixel unverified",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Wily Stage 1 - Large Weapon Energy",
+    "visibility_rules": [
+      "$mm8_visible|5480336"
+    ],
+    "map_locations": [
+      {
+        "map": "full10",
+        "x": 7920,
+        "y": 298,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily Stage 1 - Large Weapon Energy",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480336"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wily Stage 1 - 1-UP",
+    "visibility_rules": [
+      "$mm8_visible|5480337"
+    ],
+    "map_locations": [
+      {
+        "map": "full10",
+        "x": 8000,
+        "y": 269,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily Stage 1 - 1-UP",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480337"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wily Stage 2 - Clear",
+    "visibility_rules": [
+      "$mm8_visible|5480023"
+    ],
+    "map_locations": [
+      {
+        "map": "full11",
+        "x": 7935,
+        "y": 399,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily Stage 2 - Clear",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480023"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Marker matched to the supplied screenshot on the whole-stage map and corresponding enlarged views.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Wily Stage 2 - Large Life Energy",
+    "visibility_rules": [
+      "$mm8_visible|5480338"
+    ],
+    "map_locations": [
+      {
+        "map": "full11",
+        "x": 4623,
+        "y": 452,
+        "size": 98
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily Stage 2 - Large Life Energy",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480338"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wily Stage 3 - Clear",
+    "visibility_rules": [
+      "$mm8_visible|5480024"
+    ],
+    "map_locations": [
+      {
+        "map": "full12",
+        "x": 6100,
+        "y": 405,
+        "size": 75
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily Stage 3 - Clear",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480024"
+        ]
+      },
+      {
+        "name": "Playtest: Wily 3 stage boss clear",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Wily Stage 3 - Bass",
+    "visibility_rules": [
+      "$mm8_visible|5480025"
+    ],
+    "map_locations": [
+      {
+        "map": "full12",
+        "x": 3272,
+        "y": 136,
+        "size": 75
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily Stage 3 - Bass",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480025"
+        ]
+      },
+      {
+        "name": "Playtest: User screenshot: center of the Super Bass arena",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Wily Stage 3 - Large Life Energy 1",
+    "visibility_rules": [
+      "$mm8_visible|5480339"
+    ],
+    "map_locations": [
+      {
+        "map": "full12",
+        "x": 2528,
+        "y": 360,
+        "size": 75
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily Stage 3 - Large Life Energy 1",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480339"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wily Stage 3 - Large Life Energy 2",
+    "visibility_rules": [
+      "$mm8_visible|5480340"
+    ],
+    "map_locations": [
+      {
+        "map": "full12",
+        "x": 3712,
+        "y": 488,
+        "size": 75
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily Stage 3 - Large Life Energy 2",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480340"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wily Stage 3 - 1-UP",
+    "visibility_rules": [
+      "$mm8_visible|5480341"
+    ],
+    "map_locations": [
+      {
+        "map": "full12",
+        "x": 4256,
+        "y": 360,
+        "size": 75
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily Stage 3 - 1-UP",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480341"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wily Stage 4 - Frost Man Rematch",
+    "visibility_rules": [
+      "$mm8_visible|5480030"
+    ],
+    "map_locations": [
+      {
+        "map": "full13",
+        "x": 216,
+        "y": 592,
+        "size": 24
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily Stage 4 - Frost Man Rematch",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480030"
+        ]
+      },
+      {
+        "name": "Playtest: User screenshot: correct teleporter capsule; guide confirms boss-to-pod order",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Wily Stage 4 - Clown Man Rematch",
+    "visibility_rules": [
+      "$mm8_visible|5480031"
+    ],
+    "map_locations": [
+      {
+        "map": "full13",
+        "x": 56,
+        "y": 704,
+        "size": 24
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily Stage 4 - Clown Man Rematch",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480031"
+        ]
+      },
+      {
+        "name": "Playtest: User screenshot: correct teleporter capsule; guide confirms boss-to-pod order",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Wily Stage 4 - Tengu Man Rematch",
+    "visibility_rules": [
+      "$mm8_visible|5480032"
+    ],
+    "map_locations": [
+      {
+        "map": "full13",
+        "x": 56,
+        "y": 592,
+        "size": 24
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily Stage 4 - Tengu Man Rematch",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480032"
+        ]
+      },
+      {
+        "name": "Playtest: User screenshot: correct teleporter capsule; guide confirms boss-to-pod order",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Wily Stage 4 - Grenade Man Rematch",
+    "visibility_rules": [
+      "$mm8_visible|5480033"
+    ],
+    "map_locations": [
+      {
+        "map": "full13",
+        "x": 216,
+        "y": 700,
+        "size": 24
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily Stage 4 - Grenade Man Rematch",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480033"
+        ]
+      },
+      {
+        "name": "Playtest: User screenshot: correct teleporter capsule; guide confirms boss-to-pod order",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Wily Stage 4 - Sword Man Rematch",
+    "visibility_rules": [
+      "$mm8_visible|5480034"
+    ],
+    "map_locations": [
+      {
+        "map": "full13",
+        "x": 472,
+        "y": 586,
+        "size": 24
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily Stage 4 - Sword Man Rematch",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480034"
+        ]
+      },
+      {
+        "name": "Playtest: User screenshot: correct teleporter capsule; guide confirms boss-to-pod order",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Wily Stage 4 - Aqua Man Rematch",
+    "visibility_rules": [
+      "$mm8_visible|5480035"
+    ],
+    "map_locations": [
+      {
+        "map": "full13",
+        "x": 472,
+        "y": 700,
+        "size": 24
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily Stage 4 - Aqua Man Rematch",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480035"
+        ]
+      },
+      {
+        "name": "Playtest: User screenshot: correct teleporter capsule; guide confirms boss-to-pod order",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Wily Stage 4 - Astro Man Rematch",
+    "visibility_rules": [
+      "$mm8_visible|5480036"
+    ],
+    "map_locations": [
+      {
+        "map": "full13",
+        "x": 312,
+        "y": 580,
+        "size": 24
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily Stage 4 - Astro Man Rematch",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480036"
+        ]
+      },
+      {
+        "name": "Playtest: User screenshot: correct teleporter capsule; guide confirms boss-to-pod order",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Wily Stage 4 - Search Man Rematch",
+    "visibility_rules": [
+      "$mm8_visible|5480037"
+    ],
+    "map_locations": [
+      {
+        "map": "full13",
+        "x": 312,
+        "y": 700,
+        "size": 24
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily Stage 4 - Search Man Rematch",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480037"
+        ]
+      },
+      {
+        "name": "Playtest: User screenshot: correct teleporter capsule; guide confirms boss-to-pod order",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Dr. Light's Lab - Energy Saver",
+    "visibility_rules": [
+      "$mm8_visible|5480201"
+    ],
+    "map_locations": [
+      {
+        "map": "lab",
+        "x": 580,
+        "y": 190,
+        "size": 22
+      }
+    ],
+    "sections": [
+      {
+        "name": "Dr. Light's Lab - Energy Saver",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480201"
+        ],
+        "hosted_item": "labicon_5480201"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Light's Lab - Power Shield",
+    "visibility_rules": [
+      "$mm8_visible|5480202"
+    ],
+    "map_locations": [
+      {
+        "map": "lab",
+        "x": 40,
+        "y": 190,
+        "size": 22
+      }
+    ],
+    "sections": [
+      {
+        "name": "Dr. Light's Lab - Power Shield",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480202"
+        ],
+        "hosted_item": "labicon_5480202"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Light's Lab - Energy Balancer",
+    "visibility_rules": [
+      "$mm8_visible|5480203"
+    ],
+    "map_locations": [
+      {
+        "map": "lab",
+        "x": 40,
+        "y": 334,
+        "size": 22
+      }
+    ],
+    "sections": [
+      {
+        "name": "Dr. Light's Lab - Energy Balancer",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480203"
+        ],
+        "hosted_item": "labicon_5480203"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Light's Lab - Exit",
+    "visibility_rules": [
+      "$mm8_visible|5480204"
+    ],
+    "map_locations": [
+      {
+        "map": "lab",
+        "x": 40,
+        "y": 382,
+        "size": 22
+      }
+    ],
+    "sections": [
+      {
+        "name": "Dr. Light's Lab - Exit",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480204"
+        ],
+        "hosted_item": "labicon_5480204"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Light's Lab - Super Recover",
+    "visibility_rules": [
+      "$mm8_visible|5480205"
+    ],
+    "map_locations": [
+      {
+        "map": "lab",
+        "x": 580,
+        "y": 238,
+        "size": 22
+      }
+    ],
+    "sections": [
+      {
+        "name": "Dr. Light's Lab - Super Recover",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480205"
+        ],
+        "hosted_item": "labicon_5480205"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Light's Lab - High Speed Charge",
+    "visibility_rules": [
+      "$mm8_visible|5480206"
+    ],
+    "map_locations": [
+      {
+        "map": "lab",
+        "x": 580,
+        "y": 286,
+        "size": 22
+      }
+    ],
+    "sections": [
+      {
+        "name": "Dr. Light's Lab - High Speed Charge",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480206"
+        ],
+        "hosted_item": "labicon_5480206"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Light's Lab - Shooting Part",
+    "visibility_rules": [
+      "$mm8_visible|5480207"
+    ],
+    "map_locations": [
+      {
+        "map": "lab",
+        "x": 40,
+        "y": 286,
+        "size": 22
+      }
+    ],
+    "sections": [
+      {
+        "name": "Dr. Light's Lab - Shooting Part",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480207"
+        ],
+        "hosted_item": "labicon_5480207"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Light's Lab - Spare Extra",
+    "visibility_rules": [
+      "$mm8_visible|5480208"
+    ],
+    "map_locations": [
+      {
+        "map": "lab",
+        "x": 40,
+        "y": 238,
+        "size": 22
+      }
+    ],
+    "sections": [
+      {
+        "name": "Dr. Light's Lab - Spare Extra",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480208"
+        ],
+        "hosted_item": "labicon_5480208"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Light's Lab - Boost Part",
+    "visibility_rules": [
+      "$mm8_visible|5480209"
+    ],
+    "map_locations": [
+      {
+        "map": "lab",
+        "x": 580,
+        "y": 334,
+        "size": 22
+      }
+    ],
+    "sections": [
+      {
+        "name": "Dr. Light's Lab - Boost Part",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480209"
+        ],
+        "hosted_item": "labicon_5480209"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Light's Lab - Rapid Part",
+    "visibility_rules": [
+      "$mm8_visible|5480210"
+    ],
+    "map_locations": [
+      {
+        "map": "lab",
+        "x": 580,
+        "y": 382,
+        "size": 22
+      }
+    ],
+    "sections": [
+      {
+        "name": "Dr. Light's Lab - Rapid Part",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480210"
+        ],
+        "hosted_item": "labicon_5480210"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Light's Lab - Laser Shot",
+    "visibility_rules": [
+      "$mm8_visible|5480211"
+    ],
+    "map_locations": [
+      {
+        "map": "lab",
+        "x": 40,
+        "y": 430,
+        "size": 22
+      }
+    ],
+    "sections": [
+      {
+        "name": "Dr. Light's Lab - Laser Shot",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480211"
+        ],
+        "hosted_item": "labicon_5480211"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Light's Lab - Arrow Shot",
+    "visibility_rules": [
+      "$mm8_visible|5480212"
+    ],
+    "map_locations": [
+      {
+        "map": "lab",
+        "x": 40,
+        "y": 478,
+        "size": 22
+      }
+    ],
+    "sections": [
+      {
+        "name": "Dr. Light's Lab - Arrow Shot",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480212"
+        ],
+        "hosted_item": "labicon_5480212"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Light's Lab - Auto Shoot",
+    "visibility_rules": [
+      "$mm8_visible|5480213"
+    ],
+    "map_locations": [
+      {
+        "map": "lab",
+        "x": 40,
+        "y": 526,
+        "size": 22
+      }
+    ],
+    "sections": [
+      {
+        "name": "Dr. Light's Lab - Auto Shoot",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480213"
+        ],
+        "hosted_item": "labicon_5480213"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Light's Lab - Spare Charger",
+    "visibility_rules": [
+      "$mm8_visible|5480214"
+    ],
+    "map_locations": [
+      {
+        "map": "lab",
+        "x": 580,
+        "y": 430,
+        "size": 22
+      }
+    ],
+    "sections": [
+      {
+        "name": "Dr. Light's Lab - Spare Charger",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480214"
+        ],
+        "hosted_item": "labicon_5480214"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Light's Lab - Hyper Slider",
+    "visibility_rules": [
+      "$mm8_visible|5480215"
+    ],
+    "map_locations": [
+      {
+        "map": "lab",
+        "x": 580,
+        "y": 478,
+        "size": 22
+      }
+    ],
+    "sections": [
+      {
+        "name": "Dr. Light's Lab - Hyper Slider",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480215"
+        ],
+        "hosted_item": "labicon_5480215"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Light's Lab - Exchanger",
+    "visibility_rules": [
+      "$mm8_visible|5480216"
+    ],
+    "map_locations": [
+      {
+        "map": "lab",
+        "x": 580,
+        "y": 526,
+        "size": 22
+      }
+    ],
+    "sections": [
+      {
+        "name": "Dr. Light's Lab - Exchanger",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480216"
+        ],
+        "hosted_item": "labicon_5480216"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Light's Lab - Step Booster",
+    "visibility_rules": [
+      "$mm8_visible|5480217"
+    ],
+    "map_locations": [
+      {
+        "map": "lab",
+        "x": 40,
+        "y": 574,
+        "size": 22
+      }
+    ],
+    "sections": [
+      {
+        "name": "Dr. Light's Lab - Step Booster",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480217"
+        ],
+        "hosted_item": "labicon_5480217"
+      }
+    ]
+  },
+  {
+    "name": "Frost Man - Large Life Energy 5",
+    "visibility_rules": [
+      "$mm8_visible|5480342"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 2519,
+        "y": 855,
+        "size": 48
+      }
+    ],
+    "sections": [
+      {
+        "name": "Frost Man - Large Life Energy 5",
+        "item_count": 1,
+        "access_rules": [
+          "^$mm8_access_level|5480342"
+        ]
+      },
+      {
+        "name": "0.2.1 pickup insanity: break the ice block on the ledge above Bolt 6. Seed logic requires Astro Crush. Marker is a room reference; exact pixel not yet verified.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Frost Man - Missing ice capsule (untracked field Energy 3)",
+    "visibility_rules": [
+      "$mm8_missing_frost_capsule_visible"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 2063,
+        "y": 1060,
+        "size": 40
+      }
+    ],
+    "sections": [
+      {
+        "name": "Not an AP check in 0.2.2; cannot be auto-tracked. Beside Bolt 4. Tornado Hold is green; airborne Mega Ball jumps are yellow. Existing Energy 2 marker moved to its reported room after Bolt 3.",
+        "item_count": 0,
+        "access_rules": [
+          "^$mm8_missing_frost_capsule_level"
+        ]
+      }
+    ]
+  }
+]

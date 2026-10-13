@@ -1,0 +1,638 @@
+[
+  {
+    "name": "Mega Ball",
+    "type": "toggle",
+    "codes": "i5480001",
+    "img": "images/i5480001.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Flash Bomb",
+    "type": "toggle",
+    "codes": "i5480002",
+    "img": "images/i5480002.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Thunder Claw",
+    "type": "toggle",
+    "codes": "i5480003",
+    "img": "images/i5480003.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Ice Wave",
+    "type": "toggle",
+    "codes": "i5480004",
+    "img": "images/i5480004.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Tornado Hold",
+    "type": "toggle",
+    "codes": "i5480005",
+    "img": "images/i5480005.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Water Balloon",
+    "type": "toggle",
+    "codes": "i5480006",
+    "img": "images/i5480006.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Flame Sword",
+    "type": "toggle",
+    "codes": "i5480007",
+    "img": "images/i5480007.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Homing Sniper",
+    "type": "toggle",
+    "codes": "i5480008",
+    "img": "images/i5480008.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Astro Crush",
+    "type": "toggle",
+    "codes": "i5480009",
+    "img": "images/i5480009.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Rush Bike",
+    "type": "toggle",
+    "codes": "i5480020",
+    "img": "images/i5480020.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Rush Item",
+    "type": "toggle",
+    "codes": "i5480021",
+    "img": "images/i5480021.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Rush Bomber",
+    "type": "toggle",
+    "codes": "i5480022",
+    "img": "images/i5480022.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Rush Health",
+    "type": "toggle",
+    "codes": "i5480023",
+    "img": "images/i5480023.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Energy Saver",
+    "type": "toggle",
+    "codes": "i5480031",
+    "img": "images/i5480031.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Power Shield",
+    "type": "toggle",
+    "codes": "i5480032",
+    "img": "images/i5480032.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Energy Balancer",
+    "type": "toggle",
+    "codes": "i5480033",
+    "img": "images/i5480033.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Exit",
+    "type": "toggle",
+    "codes": "i5480034",
+    "img": "images/i5480034.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Super Recover",
+    "type": "toggle",
+    "codes": "i5480035",
+    "img": "images/i5480035.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "High Speed Charge",
+    "type": "toggle",
+    "codes": "i5480036",
+    "img": "images/i5480036.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Shooting Part",
+    "type": "toggle",
+    "codes": "i5480037",
+    "img": "images/i5480037.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Spare Extra",
+    "type": "toggle",
+    "codes": "i5480038",
+    "img": "images/i5480038.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Boost Part",
+    "type": "toggle",
+    "codes": "i5480039",
+    "img": "images/i5480039.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Rapid Part",
+    "type": "toggle",
+    "codes": "i5480040",
+    "img": "images/i5480040.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Laser Shot",
+    "type": "toggle",
+    "codes": "i5480041",
+    "img": "images/i5480041.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Arrow Shot",
+    "type": "toggle",
+    "codes": "i5480042",
+    "img": "images/i5480042.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Auto Shoot",
+    "type": "toggle",
+    "codes": "i5480043",
+    "img": "images/i5480043.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Spare Charger",
+    "type": "toggle",
+    "codes": "i5480044",
+    "img": "images/i5480044.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Hyper Slider",
+    "type": "toggle",
+    "codes": "i5480045",
+    "img": "images/i5480045.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Exchanger",
+    "type": "toggle",
+    "codes": "i5480046",
+    "img": "images/i5480046.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Step Booster",
+    "type": "toggle",
+    "codes": "i5480047",
+    "img": "images/i5480047.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Bolts",
+    "type": "consumable",
+    "codes": "i5480050",
+    "img": "images/i5480050.png",
+    "min_quantity": 0,
+    "max_quantity": 9999,
+    "overlay_font_size": 14
+  },
+  {
+    "name": "1-Up",
+    "type": "consumable",
+    "codes": "i5480060",
+    "img": "images/i5480060.png",
+    "min_quantity": 0,
+    "max_quantity": 9999,
+    "overlay_font_size": 14
+  },
+  {
+    "name": "Life Energy",
+    "type": "consumable",
+    "codes": "i5480061",
+    "img": "images/i5480061.png",
+    "min_quantity": 0,
+    "max_quantity": 9999,
+    "overlay_font_size": 14
+  },
+  {
+    "name": "Weapon Energy",
+    "type": "consumable",
+    "codes": "i5480062",
+    "img": "images/i5480062.png",
+    "min_quantity": 0,
+    "max_quantity": 9999,
+    "overlay_font_size": 14
+  },
+  {
+    "name": "Frost Man Access Codes",
+    "type": "toggle",
+    "codes": "i5480080",
+    "img": "images/stage-frost.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Clown Man Access Codes",
+    "type": "toggle",
+    "codes": "i5480081",
+    "img": "images/stage-clown.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Tengu Man Access Codes",
+    "type": "toggle",
+    "codes": "i5480082",
+    "img": "images/stage-tengu.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Grenade Man Access Codes",
+    "type": "toggle",
+    "codes": "i5480083",
+    "img": "images/stage-grenade.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Sword Man Access Codes",
+    "type": "toggle",
+    "codes": "i5480084",
+    "img": "images/stage-sword.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Aqua Man Access Codes",
+    "type": "toggle",
+    "codes": "i5480085",
+    "img": "images/stage-aqua.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Astro Man Access Codes",
+    "type": "toggle",
+    "codes": "i5480086",
+    "img": "images/stage-astro.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Search Man Access Codes",
+    "type": "toggle",
+    "codes": "i5480087",
+    "img": "images/stage-search.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Require stage access codes",
+    "type": "toggle",
+    "codes": "opt_stage_unlocks",
+    "img": "images/opt_stage_unlocks.png",
+    "initial_active_state": false
+  },
+  {
+    "name": "Enable Pickupsanity checks",
+    "type": "toggle",
+    "codes": "opt_pickupsanity",
+    "img": "images/opt_pickupsanity.png",
+    "initial_active_state": false
+  },
+  {
+    "name": "Enable Wily 4 rematch checks",
+    "type": "toggle",
+    "codes": "opt_rematch_checks",
+    "img": "images/opt_rematch_checks.png",
+    "initial_active_state": false
+  },
+  {
+    "name": "Bolts per received bundle",
+    "type": "consumable",
+    "codes": "opt_bolt_bundle_size",
+    "img": "images/opt_bolt_bundle_size.png",
+    "min_quantity": 1,
+    "max_quantity": 20,
+    "initial_quantity": 5
+  },
+  {
+    "name": "Logic refresh",
+    "type": "toggle",
+    "codes": "logic_refresh",
+    "img": "images/i5480001.png"
+  },
+  {
+    "name": "Energy Saver check icon",
+    "type": "static",
+    "codes": "labicon_5480201",
+    "img": "images/lab-energysaver.png"
+  },
+  {
+    "name": "Power Shield check icon",
+    "type": "static",
+    "codes": "labicon_5480202",
+    "img": "images/lab-powershield.png"
+  },
+  {
+    "name": "Energy Balancer check icon",
+    "type": "static",
+    "codes": "labicon_5480203",
+    "img": "images/lab-energybalancer.png"
+  },
+  {
+    "name": "Exit check icon",
+    "type": "static",
+    "codes": "labicon_5480204",
+    "img": "images/lab-exit.png"
+  },
+  {
+    "name": "Super Recover check icon",
+    "type": "static",
+    "codes": "labicon_5480205",
+    "img": "images/lab-superrecover.png"
+  },
+  {
+    "name": "High Speed Charge check icon",
+    "type": "static",
+    "codes": "labicon_5480206",
+    "img": "images/lab-highspeedcharge.png"
+  },
+  {
+    "name": "Shooting Part check icon",
+    "type": "static",
+    "codes": "labicon_5480207",
+    "img": "images/lab-shootingpart.png"
+  },
+  {
+    "name": "Spare Extra check icon",
+    "type": "static",
+    "codes": "labicon_5480208",
+    "img": "images/lab-spareextra.png"
+  },
+  {
+    "name": "Boost Part check icon",
+    "type": "static",
+    "codes": "labicon_5480209",
+    "img": "images/lab-boostpart.png"
+  },
+  {
+    "name": "Rapid Part check icon",
+    "type": "static",
+    "codes": "labicon_5480210",
+    "img": "images/lab-rapidpart.png"
+  },
+  {
+    "name": "Laser Shot check icon",
+    "type": "static",
+    "codes": "labicon_5480211",
+    "img": "images/lab-lasershot.png"
+  },
+  {
+    "name": "Arrow Shot check icon",
+    "type": "static",
+    "codes": "labicon_5480212",
+    "img": "images/lab-arrowshot.png"
+  },
+  {
+    "name": "Auto Shoot check icon",
+    "type": "static",
+    "codes": "labicon_5480213",
+    "img": "images/lab-autoshoot.png"
+  },
+  {
+    "name": "Spare Charger check icon",
+    "type": "static",
+    "codes": "labicon_5480214",
+    "img": "images/lab-sparecharger.png"
+  },
+  {
+    "name": "Hyper Slider check icon",
+    "type": "static",
+    "codes": "labicon_5480215",
+    "img": "images/lab-hyperslider.png"
+  },
+  {
+    "name": "Exchanger check icon",
+    "type": "static",
+    "codes": "labicon_5480216",
+    "img": "images/lab-exchanger.png"
+  },
+  {
+    "name": "Step Booster check icon",
+    "type": "static",
+    "codes": "labicon_5480217",
+    "img": "images/lab-stepbooster.png"
+  },
+  {
+    "name": "AP seed logic",
+    "type": "toggle",
+    "codes": "opt_strict_seed_logic",
+    "img": "images/opt_strict_seed_logic.png",
+    "initial_active_state": true
+  },
+  {
+    "name": "World v0.2.0 or newer",
+    "type": "toggle",
+    "codes": "opt_world_v020",
+    "img": "images/opt_world_v020.png",
+    "initial_active_state": true
+  },
+  {
+    "name": "Stage order: 0 vanilla, 1 open, 2 any four",
+    "type": "consumable",
+    "codes": "opt_stage_order",
+    "img": "images/opt_world_v020.png",
+    "min_quantity": 0,
+    "max_quantity": 2,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Frost Man Stage",
+    "codes": "stageview_5480080",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/stage-frost.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/stage-frost.png"
+      }
+    ]
+  },
+  {
+    "name": "Clown Man Stage",
+    "codes": "stageview_5480081",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/stage-clown.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/stage-clown.png"
+      }
+    ]
+  },
+  {
+    "name": "Tengu Man Stage",
+    "codes": "stageview_5480082",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/stage-tengu.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/stage-tengu.png"
+      }
+    ]
+  },
+  {
+    "name": "Grenade Man Stage",
+    "codes": "stageview_5480083",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/stage-grenade.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/stage-grenade.png"
+      }
+    ]
+  },
+  {
+    "name": "Sword Man Stage",
+    "codes": "stageview_5480084",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/stage-sword.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/stage-sword.png"
+      }
+    ]
+  },
+  {
+    "name": "Aqua Man Stage",
+    "codes": "stageview_5480085",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/stage-aqua.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/stage-aqua.png"
+      }
+    ]
+  },
+  {
+    "name": "Astro Man Stage",
+    "codes": "stageview_5480086",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/stage-astro.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/stage-astro.png"
+      }
+    ]
+  },
+  {
+    "name": "Search Man Stage",
+    "codes": "stageview_5480087",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/stage-search.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/stage-search.png"
+      }
+    ]
+  },
+  {
+    "name": "Seed v0.2.1 or v0.2.2: ON / older: OFF",
+    "type": "toggle",
+    "codes": "opt_world_v021",
+    "img": "images/opt_world_v021.png",
+    "initial_active_state": true
+  }
+]

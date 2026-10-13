@@ -1,0 +1,174 @@
+{
+  "pack_version": "0.7.7",
+  "apworld_version": "0.2.2",
+  "normal_rules": {
+    "5480318": [],
+    "5480105": [
+      [
+        "Astro Crush"
+      ],
+      [
+        "Mega Ball",
+        "Tornado Hold"
+      ]
+    ],
+    "5480301": [
+      [
+        "Tornado Hold"
+      ]
+    ],
+    "5480302": [
+      [
+        "Tornado Hold"
+      ]
+    ],
+    "5480110": [
+      [
+        "Rush Bike"
+      ]
+    ],
+    "5480109": [
+      [
+        "Mega Ball",
+        "Tornado Hold"
+      ]
+    ],
+    "5480138": [
+      [
+        "Mega Ball",
+        "Tornado Hold"
+      ]
+    ],
+    "5480139": [
+      [
+        "Mega Ball",
+        "Tornado Hold"
+      ]
+    ],
+    "5480134": [],
+    "5480333": [
+      [
+        "Thunder Claw"
+      ]
+    ],
+    "5480334": [
+      [
+        "Thunder Claw"
+      ]
+    ],
+    "5480136": [
+      [
+        "Thunder Claw"
+      ],
+      [
+        "Tornado Hold"
+      ]
+    ],
+    "5480007": [],
+    "5480137": [
+      [
+        "Thunder Claw"
+      ]
+    ],
+    "5480006": [],
+    "5480128": [],
+    "5480129": [],
+    "5480130": [],
+    "5480131": [],
+    "5480331": [],
+    "5480332": [],
+    "5480005": [],
+    "5480013": [],
+    "5480125": [],
+    "5480325": [],
+    "5480326": [],
+    "5480330": [],
+    "5480323": [
+      [
+        "Astro Crush"
+      ]
+    ],
+    "5480327": [
+      [
+        "Astro Crush"
+      ]
+    ],
+    "5480126": [
+      [
+        "Astro Crush"
+      ]
+    ],
+    "5480328": [
+      [
+        "Astro Crush"
+      ]
+    ],
+    "5480329": [
+      [
+        "Astro Crush"
+      ]
+    ],
+    "5480127": [
+      [
+        "Astro Crush"
+      ]
+    ],
+    "5480324": [
+      [
+        "Tornado Hold"
+      ]
+    ],
+    "5480124": [
+      [
+        "Tornado Hold"
+      ]
+    ]
+  },
+  "yellow_rules": {
+    "5480301": [
+      [
+        "Mega Ball"
+      ]
+    ],
+    "5480302": [
+      [
+        "Mega Ball"
+      ]
+    ],
+    "5480110": [
+      [
+        "Mega Ball"
+      ]
+    ],
+    "5480333": [
+      [
+        "Mega Ball"
+      ]
+    ],
+    "5480334": [
+      [
+        "Mega Ball"
+      ]
+    ],
+    "5480136": [
+      [
+        "Mega Ball"
+      ]
+    ]
+  },
+  "missing_capsule": "Frost field Energy 3 beside Bolt 4; no AP ID assigned",
+  "field_aliases": {
+    "5480302": "Energy 4",
+    "5480303": "Energy 6"
+  },
+  "frost_energy_2_placement": {
+    "x": 1966,
+    "y": 1048,
+    "evidence": "Frost Man LLE2.png"
+  },
+  "search_bolt_1_placement": {
+    "x": 1914,
+    "y": 1072,
+    "evidence": "Search Man Bolt 1 Reposition.png"
+  }
+}

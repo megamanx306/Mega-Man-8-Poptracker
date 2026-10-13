@@ -1,0 +1,49 @@
+{
+  "version": "0.7.1",
+  "apworld": "0.2.1",
+  "archipelago": "0.6.8",
+  "confirmation_source": "User completed playtest",
+  "confirmed_checks": [
+    5480105,
+    5480342,
+    5480135,
+    5480136
+  ],
+  "astro_crush_required": [
+    5480327,
+    5480126,
+    5480328,
+    5480329
+  ],
+  "astro_crush_not_required": [
+    5480125,
+    5480325,
+    5480326
+  ],
+  "marker_positions": {
+    "5480105": {
+      "full2": [
+        2518,
+        921
+      ],
+      "close2_10": [
+        1222,
+        289
+      ],
+      "review2_1": [
+        499,
+        422
+      ]
+    },
+    "5480011": {
+      "full1": [
+        4802,
+        888
+      ],
+      "review1_3": [
+        652,
+        558
+      ]
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "version": "0.6.6",
+  "focused_physical_route_checks": "passed",
+  "strict_baseline_comparisons": 30000,
+  "strict_seed_rules_unchanged": true,
+  "live_poptracker_test": false
+}

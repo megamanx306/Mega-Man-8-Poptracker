@@ -1,0 +1,6 @@
+{
+  "version": "0.6.9",
+  "changes": "Added all 11 existing pickup-insanity refill checks to the highlighted row on the whole-stage map, with a dedicated enlarged stage-row view. Added the weapon-energy / far-left collection note in the highlighted blank area. The source atlas hides pickup sprites, so row positions are references rather than verified individual pixels.",
+  "inventory_item_size": "64,60",
+  "validation": "JSON, image references, unique AP check IDs and marker bounds verified. Live PopTracker validation unavailable."
+}

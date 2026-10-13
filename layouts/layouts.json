@@ -1,0 +1,358 @@
+{
+  "tracker_default": {
+    "type": "container",
+    "background": "#191925",
+    "content": {
+      "type": "dock",
+      "content": [
+        {
+          "type": "dock",
+          "dock": "left",
+          "v_alignment": "stretch",
+          "content": [
+            {
+              "type": "group",
+              "header": "Inventory",
+              "dock": "top",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "Items",
+                    "content": {
+                      "type": "itemgrid",
+                      "item_size": "64,60",
+                      "item_margin": "2,3",
+                      "h_alignment": "left",
+                      "rows": [
+                        [
+                          "stageview_5480080",
+                          "stageview_5480081",
+                          "stageview_5480082",
+                          "stageview_5480083"
+                        ],
+                        [
+                          "stageview_5480084",
+                          "stageview_5480085",
+                          "stageview_5480086",
+                          "stageview_5480087"
+                        ],
+                        [
+                          "i5480002",
+                          "i5480003",
+                          "i5480004",
+                          "i5480005"
+                        ],
+                        [
+                          "i5480006",
+                          "i5480007",
+                          "i5480008",
+                          "i5480009"
+                        ],
+                        [
+                          "i5480001"
+                        ],
+                        [
+                          "i5480020",
+                          "i5480021",
+                          "i5480022",
+                          "i5480023"
+                        ]
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Extras",
+                    "content": {
+                      "type": "itemgrid",
+                      "item_size": "64,60",
+                      "item_margin": "2,3",
+                      "h_alignment": "left",
+                      "rows": [
+                        [
+                          "i5480031",
+                          "i5480032",
+                          "i5480033",
+                          "i5480034"
+                        ],
+                        [
+                          "i5480035",
+                          "i5480036",
+                          "i5480037",
+                          "i5480038"
+                        ],
+                        [
+                          "i5480039",
+                          "i5480040",
+                          "i5480041",
+                          "i5480042"
+                        ],
+                        [
+                          "i5480043",
+                          "i5480044",
+                          "i5480045",
+                          "i5480046"
+                        ],
+                        [
+                          "i5480047",
+                          "i5480050",
+                          "i5480060",
+                          "i5480061"
+                        ],
+                        [
+                          "i5480062"
+                        ]
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "layout",
+          "key": "stage_maps"
+        }
+      ]
+    }
+  },
+  "tracker_broadcast": {
+    "type": "itemgrid",
+    "item_size": "72,64",
+    "rows": [
+      [
+        "stageview_5480080",
+        "stageview_5480081",
+        "stageview_5480082",
+        "stageview_5480083"
+      ],
+      [
+        "stageview_5480084",
+        "stageview_5480085",
+        "stageview_5480086",
+        "stageview_5480087"
+      ],
+      [
+        "i5480002",
+        "i5480003",
+        "i5480004",
+        "i5480005"
+      ],
+      [
+        "i5480006",
+        "i5480007",
+        "i5480008",
+        "i5480009"
+      ],
+      [
+        "i5480001"
+      ],
+      [
+        "i5480020",
+        "i5480021",
+        "i5480022",
+        "i5480023"
+      ]
+    ]
+  },
+  "stage_maps": {
+    "type": "tabbed",
+    "tabs": [
+      {
+        "title": "Intro Stage",
+        "content": {
+          "type": "map",
+          "maps": [
+            "full0"
+          ]
+        }
+      },
+      {
+        "title": "Robot Masters",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Frost Man",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "full2"
+                ]
+              }
+            },
+            {
+              "title": "Clown Man",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "full1"
+                ]
+              }
+            },
+            {
+              "title": "Tengu Man",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "full4"
+                ]
+              }
+            },
+            {
+              "title": "Grenade Man",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "full3"
+                ]
+              }
+            },
+            {
+              "title": "Sword Man",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "full9"
+                ]
+              }
+            },
+            {
+              "title": "Aqua Man",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "full6"
+                ]
+              }
+            },
+            {
+              "title": "Astro Man",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "full7"
+                ]
+              }
+            },
+            {
+              "title": "Search Man",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "full8"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Duo",
+        "content": {
+          "type": "map",
+          "maps": [
+            "full5"
+          ]
+        }
+      },
+      {
+        "title": "Wily's Castle",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Wily Stage 1",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "full10"
+                ]
+              }
+            },
+            {
+              "title": "Wily Stage 2",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "full11"
+                ]
+              }
+            },
+            {
+              "title": "Wily Stage 3",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "full12"
+                ]
+              }
+            },
+            {
+              "title": "Wily Stage 4",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "full13"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Dr. Light's Lab",
+        "content": {
+          "type": "map",
+          "maps": [
+            "lab"
+          ]
+        }
+      }
+    ]
+  },
+  "settings_popup": {
+    "type": "dock",
+    "content": [
+      {
+        "type": "itemgrid",
+        "item_size": "88,60",
+        "rows": [
+          [
+            "opt_stage_unlocks",
+            "opt_pickupsanity",
+            "opt_rematch_checks",
+            "opt_bolt_bundle_size"
+          ]
+        ],
+        "dock": "top"
+      },
+      {
+        "type": "text",
+        "dock": "top",
+        "text": "AP seed logic ON uses world requirements; OFF uses playtested routes. Yellow means an optional difficult route or an early fortress visit."
+      },
+      {
+        "type": "itemgrid",
+        "dock": "top",
+        "item_size": "80,72",
+        "rows": [
+          [
+            "opt_strict_seed_logic",
+            "opt_world_v020",
+            "opt_stage_order"
+          ],
+          [
+            "opt_world_v021"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "dock": "top",
+        "text": "Seed 0.2.1 ON = per-check rules; OFF = legacy rules. Pickup-insanity seeds auto-detect from the ice-block check. Without pickup insanity, choose the version used to GENERATE your seed. Client upgrades do not change seed logic. Search Bolt 2/3 labels include the old numbering."
+      }
+    ]
+  }
+}

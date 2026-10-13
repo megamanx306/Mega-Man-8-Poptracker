@@ -1,0 +1,18 @@
+{
+  "version": "0.7.0",
+  "apworld_version": "0.2.1",
+  "location_count": 126,
+  "checks_passed": [
+    "Versioned access rules",
+    "New pickup visibility",
+    "Search door and Clown item gates",
+    "Legacy requirements",
+    "Version detection",
+    "Reconnect to older seed",
+    "New AP location tracking",
+    "Lua syntax",
+    "JSON parsing",
+    "Marker bounds"
+  ],
+  "live_poptracker_tested": false
+}

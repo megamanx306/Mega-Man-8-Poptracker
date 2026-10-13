@@ -1,0 +1,372 @@
+{
+  "changed_markers": [
+    {
+      "id": 5480105,
+      "map": 2,
+      "x": 2519,
+      "y": 906,
+      "note": "Frost section 10: second ice block",
+      "room_reference": false
+    },
+    {
+      "id": 5480109,
+      "map": 1,
+      "x": 7525,
+      "y": 1093,
+      "note": "Clown section 6: fourth question block from the left",
+      "room_reference": true
+    },
+    {
+      "id": 5480000,
+      "map": 2,
+      "x": 8130,
+      "y": 320,
+      "note": "Frost Man stage-end reference; boss arena is omitted from this stitch",
+      "room_reference": true
+    },
+    {
+      "id": 5480001,
+      "map": 1,
+      "x": 8120,
+      "y": 325,
+      "note": "Clown Man boss arena",
+      "room_reference": false
+    },
+    {
+      "id": 5480002,
+      "map": 4,
+      "x": 8040,
+      "y": 80,
+      "note": "Tengu Man boss arena",
+      "room_reference": false
+    },
+    {
+      "id": 5480003,
+      "map": 3,
+      "x": 8100,
+      "y": 312,
+      "note": "Grenade Man boss room",
+      "room_reference": false
+    },
+    {
+      "id": 5480004,
+      "map": 9,
+      "x": 5240,
+      "y": 648,
+      "note": "Sword Man boss room",
+      "room_reference": false
+    },
+    {
+      "id": 5480005,
+      "map": 6,
+      "x": 7670,
+      "y": 4350,
+      "note": "Aqua Man boss arena",
+      "room_reference": false
+    },
+    {
+      "id": 5480006,
+      "map": 7,
+      "x": 8120,
+      "y": 1790,
+      "note": "Astro Man boss room",
+      "room_reference": false
+    },
+    {
+      "id": 5480007,
+      "map": 8,
+      "x": 8090,
+      "y": 598,
+      "note": "Search Man boss room",
+      "room_reference": false
+    },
+    {
+      "id": 5480020,
+      "map": 0,
+      "x": 2057,
+      "y": 209,
+      "note": "User screenshot: Mega Ball gift on the surface path before the underground entrance",
+      "room_reference": false
+    },
+    {
+      "id": 5480021,
+      "map": 5,
+      "x": 1230,
+      "y": 1470,
+      "note": "Duo clear",
+      "room_reference": false
+    },
+    {
+      "id": 5480022,
+      "map": 10,
+      "x": 8100,
+      "y": 265,
+      "note": "Wily 1 boss clear",
+      "room_reference": true
+    },
+    {
+      "id": 5480023,
+      "map": 11,
+      "x": 8110,
+      "y": 330,
+      "note": "Wily 2 boss clear",
+      "room_reference": true
+    },
+    {
+      "id": 5480024,
+      "map": 12,
+      "x": 6100,
+      "y": 405,
+      "note": "Wily 3 stage boss clear",
+      "room_reference": false
+    },
+    {
+      "id": 5480025,
+      "map": 12,
+      "x": 3272,
+      "y": 136,
+      "note": "User screenshot: center of the Super Bass arena",
+      "room_reference": false
+    },
+    {
+      "id": 5480011,
+      "map": 1,
+      "x": 4650,
+      "y": 875,
+      "note": "Clown Man mid-boss room reference",
+      "room_reference": true
+    },
+    {
+      "id": 5480010,
+      "map": 3,
+      "x": 3920,
+      "y": 312,
+      "note": "Grenade section 4 mid-boss room",
+      "room_reference": true
+    },
+    {
+      "id": 5480012,
+      "map": 9,
+      "x": 2060,
+      "y": 933,
+      "note": "Sword mid-boss beyond all four trials",
+      "room_reference": true
+    },
+    {
+      "id": 5480013,
+      "map": 6,
+      "x": 3390,
+      "y": 1340,
+      "note": "Aqua Man mid-boss room",
+      "room_reference": true
+    },
+    {
+      "id": 5480030,
+      "map": 13,
+      "x": 216,
+      "y": 592,
+      "note": "User screenshot: correct teleporter capsule; guide confirms boss-to-pod order",
+      "room_reference": false
+    },
+    {
+      "id": 5480031,
+      "map": 13,
+      "x": 56,
+      "y": 704,
+      "note": "User screenshot: correct teleporter capsule; guide confirms boss-to-pod order",
+      "room_reference": false
+    },
+    {
+      "id": 5480032,
+      "map": 13,
+      "x": 56,
+      "y": 592,
+      "note": "User screenshot: correct teleporter capsule; guide confirms boss-to-pod order",
+      "room_reference": false
+    },
+    {
+      "id": 5480033,
+      "map": 13,
+      "x": 216,
+      "y": 700,
+      "note": "User screenshot: correct teleporter capsule; guide confirms boss-to-pod order",
+      "room_reference": false
+    },
+    {
+      "id": 5480034,
+      "map": 13,
+      "x": 472,
+      "y": 586,
+      "note": "User screenshot: correct teleporter capsule; guide confirms boss-to-pod order",
+      "room_reference": false
+    },
+    {
+      "id": 5480035,
+      "map": 13,
+      "x": 472,
+      "y": 700,
+      "note": "User screenshot: correct teleporter capsule; guide confirms boss-to-pod order",
+      "room_reference": false
+    },
+    {
+      "id": 5480036,
+      "map": 13,
+      "x": 312,
+      "y": 580,
+      "note": "User screenshot: correct teleporter capsule; guide confirms boss-to-pod order",
+      "room_reference": false
+    },
+    {
+      "id": 5480037,
+      "map": 13,
+      "x": 312,
+      "y": 700,
+      "note": "User screenshot: correct teleporter capsule; guide confirms boss-to-pod order",
+      "room_reference": false
+    }
+  ],
+  "verified_routes": {
+    "5480102": [],
+    "5480123": [],
+    "5480300": [],
+    "5480301": [],
+    "5480303": [],
+    "5480304": [],
+    "5480305": [],
+    "5480306": [],
+    "5480307": [],
+    "5480308": [],
+    "5480309": [],
+    "5480310": [],
+    "5480311": [],
+    "5480312": [],
+    "5480313": [],
+    "5480314": [],
+    "5480315": [],
+    "5480122": [],
+    "5480132": [],
+    "5480117": [],
+    "5480118": [],
+    "5480317": [],
+    "5480318": [],
+    "5480125": [],
+    "5480331": [],
+    "5480332": [],
+    "5480340": [],
+    "5480341": [],
+    "5480103": [
+      [
+        "Mega Ball",
+        "Tornado Hold"
+      ]
+    ],
+    "5480104": [
+      [
+        "Mega Ball",
+        "Tornado Hold",
+        "Slide-jump"
+      ]
+    ],
+    "5480302": [
+      [
+        "Mega Ball",
+        "Tornado Hold",
+        "Slide-jump"
+      ]
+    ],
+    "5480106": [
+      [
+        "Astro Crush"
+      ]
+    ],
+    "5480105": [
+      [
+        "Astro Crush"
+      ]
+    ],
+    "5480110": [
+      [
+        "Rush Bike"
+      ]
+    ],
+    "5480107": [
+      [
+        "Mega Ball"
+      ],
+      [
+        "Flame Sword"
+      ]
+    ],
+    "5480108": [
+      [
+        "Mega Ball"
+      ]
+    ],
+    "5480109": [
+      [
+        "Mega Ball",
+        "Tornado Hold"
+      ]
+    ],
+    "5480115": [
+      [
+        "Mega Ball",
+        "Tornado Hold"
+      ]
+    ],
+    "5480116": [
+      [
+        "Flame Sword"
+      ]
+    ],
+    "5480119": [],
+    "5480120": [],
+    "5480121": [
+      [
+        "Flash Bomb"
+      ]
+    ],
+    "5480136": [
+      [
+        "Flame Sword"
+      ]
+    ],
+    "5480135": [
+      [
+        "Tornado Hold"
+      ],
+      [
+        "Thunder Claw"
+      ]
+    ],
+    "5480127": [
+      [
+        "Astro Crush"
+      ]
+    ],
+    "5480329": [
+      [
+        "Astro Crush"
+      ]
+    ],
+    "5480124": [
+      [
+        "Tornado Hold"
+      ]
+    ],
+    "5480330": [
+      [
+        "Tornado Hold"
+      ]
+    ],
+    "5480337": [
+      [
+        "Mega Ball",
+        "Tornado Hold",
+        "Thunder Claw"
+      ]
+    ]
+  },
+  "source": "Uploaded full playtest notes and server log, 2026-10-01",
+  "ap_ids_preserved": true
+}

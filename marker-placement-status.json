@@ -1,0 +1,581 @@
+{
+  "terrain_markers": 71,
+  "bolt_markers": 40,
+  "exact_or_container_bolts": 35,
+  "room_reference_bolts": 5,
+  "pickupsanity_checks": 42,
+  "pickups_on_terrain": 31,
+  "pickups_on_coordinate_reference": 11,
+  "placements": {
+    "5480133": {
+      "map": 0,
+      "x": 2736,
+      "y": 727,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480101": {
+      "map": 0,
+      "x": 3328,
+      "y": 839,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480100": {
+      "map": 0,
+      "x": 3536,
+      "y": 407,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480110": {
+      "map": 1,
+      "x": 1536,
+      "y": 903,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480122": {
+      "map": 1,
+      "x": 7192,
+      "y": 1127,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480107": {
+      "map": 1,
+      "x": 8592,
+      "y": 940,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480108": {
+      "map": 1,
+      "x": 9152,
+      "y": 919,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480109": {
+      "map": 1,
+      "x": 10072,
+      "y": 1255,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480102": {
+      "map": 2,
+      "x": 8224,
+      "y": 647,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480123": {
+      "map": 2,
+      "x": 18832,
+      "y": 967,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480103": {
+      "map": 2,
+      "x": 5128,
+      "y": 2919,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480104": {
+      "map": 2,
+      "x": 5824,
+      "y": 3031,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480106": {
+      "map": 2,
+      "x": 7376,
+      "y": 3304,
+      "method": "Guide room reference; hidden bolt exact pixel unverified"
+    },
+    "5480105": {
+      "map": 2,
+      "x": 7160,
+      "y": 2420,
+      "method": "Guide room reference; hidden bolt exact pixel unverified"
+    },
+    "5480115": {
+      "map": 3,
+      "x": 3536,
+      "y": 375,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480132": {
+      "map": 3,
+      "x": 5488,
+      "y": 343,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480116": {
+      "map": 3,
+      "x": 7456,
+      "y": 263,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480117": {
+      "map": 3,
+      "x": 9280,
+      "y": 215,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480118": {
+      "map": 3,
+      "x": 10352,
+      "y": 215,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480111": {
+      "map": 4,
+      "x": 1872,
+      "y": 1507,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480114": {
+      "map": 4,
+      "x": 11216,
+      "y": 1112,
+      "method": "Guide room reference; hidden bolt exact pixel unverified"
+    },
+    "5480112": {
+      "map": 4,
+      "x": 11736,
+      "y": 1127,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480113": {
+      "map": 4,
+      "x": 13568,
+      "y": 438,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480138": {
+      "map": 5,
+      "x": 304,
+      "y": 135,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480139": {
+      "map": 5,
+      "x": 928,
+      "y": 151,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480127": {
+      "map": 6,
+      "x": 3856,
+      "y": 1319,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480124": {
+      "map": 6,
+      "x": 5000,
+      "y": 1735,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480125": {
+      "map": 6,
+      "x": 5528,
+      "y": 2791,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480126": {
+      "map": 6,
+      "x": 5904,
+      "y": 3191,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480128": {
+      "map": 7,
+      "x": 3280,
+      "y": 1879,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480129": {
+      "map": 7,
+      "x": 3472,
+      "y": 439,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480130": {
+      "map": 7,
+      "x": 5456,
+      "y": 2007,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480131": {
+      "map": 7,
+      "x": 6600,
+      "y": 1895,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480134": {
+      "map": 8,
+      "x": 2144,
+      "y": 1264,
+      "method": "Guide room reference; hidden bolt exact pixel unverified"
+    },
+    "5480135": {
+      "map": 8,
+      "x": 3456,
+      "y": 391,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480136": {
+      "map": 8,
+      "x": 3168,
+      "y": 1184,
+      "method": "Guide room reference; hidden bolt exact pixel unverified"
+    },
+    "5480137": {
+      "map": 8,
+      "x": 6192,
+      "y": 407,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480119": {
+      "map": 9,
+      "x": 736,
+      "y": 1735,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480120": {
+      "map": 9,
+      "x": 2064,
+      "y": 1751,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480121": {
+      "map": 9,
+      "x": 3984,
+      "y": 135,
+      "method": "Visible bolt / breakable-container position"
+    },
+    "5480335": {
+      "map": 0,
+      "x": 3152,
+      "y": 216,
+      "method": "sprite matched and visually checked"
+    },
+    "5480300": {
+      "map": 2,
+      "x": 4928,
+      "y": 392,
+      "method": "sprite matched and visually checked"
+    },
+    "5480301": {
+      "map": 2,
+      "x": 5600,
+      "y": 2984,
+      "method": "sprite matched and visually checked"
+    },
+    "5480302": {
+      "map": 2,
+      "x": 6864,
+      "y": 2920,
+      "method": "sprite matched and visually checked"
+    },
+    "5480303": {
+      "map": 2,
+      "x": 14112,
+      "y": 1496,
+      "method": "sprite matched and visually checked"
+    },
+    "5480318": {
+      "map": 3,
+      "x": 7736,
+      "y": 56,
+      "method": "sprite matched and visually checked"
+    },
+    "5480319": {
+      "map": 3,
+      "x": 9816,
+      "y": 216,
+      "method": "sprite matched and visually checked"
+    },
+    "5480316": {
+      "map": 4,
+      "x": 12848,
+      "y": 440,
+      "method": "sprite matched and visually checked"
+    },
+    "5480317": {
+      "map": 4,
+      "x": 14416,
+      "y": 408,
+      "method": "sprite matched and visually checked"
+    },
+    "5480320": {
+      "map": 9,
+      "x": 1248,
+      "y": 952,
+      "method": "sprite matched and visually checked"
+    },
+    "5480321": {
+      "map": 9,
+      "x": 3792,
+      "y": 696,
+      "method": "sprite matched and visually checked"
+    },
+    "5480322": {
+      "map": 9,
+      "x": 440,
+      "y": 1976,
+      "method": "sprite matched and visually checked"
+    },
+    "5480324": {
+      "map": 6,
+      "x": 4998,
+      "y": 1640,
+      "method": "sprite matched and visually checked"
+    },
+    "5480326": {
+      "map": 6,
+      "x": 5552,
+      "y": 2792,
+      "method": "sprite matched and visually checked"
+    },
+    "5480327": {
+      "map": 6,
+      "x": 5928,
+      "y": 1912,
+      "method": "sprite matched and visually checked"
+    },
+    "5480328": {
+      "map": 6,
+      "x": 6000,
+      "y": 4024,
+      "method": "sprite matched and visually checked"
+    },
+    "5480330": {
+      "map": 6,
+      "x": 6816,
+      "y": 4632,
+      "method": "sprite matched and visually checked"
+    },
+    "5480331": {
+      "map": 7,
+      "x": 3552,
+      "y": 952,
+      "method": "sprite matched and visually checked"
+    },
+    "5480333": {
+      "map": 8,
+      "x": 2800,
+      "y": 968,
+      "method": "sprite matched and visually checked"
+    },
+    "5480338": {
+      "map": 11,
+      "x": 5968,
+      "y": 584,
+      "method": "sprite matched and visually checked"
+    },
+    "5480339": {
+      "map": 12,
+      "x": 2528,
+      "y": 360,
+      "method": "sprite matched and visually checked"
+    },
+    "5480340": {
+      "map": 12,
+      "x": 3712,
+      "y": 488,
+      "method": "sprite matched and visually checked"
+    },
+    "5480304": {
+      "map": 2,
+      "x": 14144,
+      "y": 1496,
+      "method": "sprite matched and visually checked"
+    },
+    "5480323": {
+      "map": 6,
+      "x": 3616,
+      "y": 1288,
+      "method": "sprite matched and visually checked"
+    },
+    "5480325": {
+      "map": 6,
+      "x": 5576,
+      "y": 2792,
+      "method": "sprite matched and visually checked"
+    },
+    "5480329": {
+      "map": 6,
+      "x": 5968,
+      "y": 4024,
+      "method": "sprite matched and visually checked"
+    },
+    "5480332": {
+      "map": 7,
+      "x": 3576,
+      "y": 952,
+      "method": "sprite matched and visually checked"
+    },
+    "5480334": {
+      "map": 8,
+      "x": 2832,
+      "y": 968,
+      "method": "sprite matched and visually checked"
+    },
+    "5480336": {
+      "map": 10,
+      "x": 26112,
+      "y": 984,
+      "method": "sprite matched and visually checked"
+    },
+    "5480341": {
+      "map": 12,
+      "x": 4256,
+      "y": 360,
+      "method": "sprite matched and visually checked"
+    },
+    "5480337": {
+      "map": 10,
+      "x": 26376,
+      "y": 888,
+      "method": "Disc spawn coordinate aligned to adjacent weapon pickup in the same room"
+    },
+    "5480025": {
+      "map": 12,
+      "x": 3272,
+      "y": 136,
+      "method": "User screenshot: center of the Super Bass arena"
+    },
+    "5480032": {
+      "map": 13,
+      "x": 56,
+      "y": 592,
+      "method": "User screenshot: correct teleporter capsule; guide confirms boss-to-pod order"
+    },
+    "5480030": {
+      "map": 13,
+      "x": 216,
+      "y": 592,
+      "method": "User screenshot: correct teleporter capsule; guide confirms boss-to-pod order"
+    },
+    "5480036": {
+      "map": 13,
+      "x": 312,
+      "y": 580,
+      "method": "User screenshot: correct teleporter capsule; guide confirms boss-to-pod order"
+    },
+    "5480034": {
+      "map": 13,
+      "x": 472,
+      "y": 586,
+      "method": "User screenshot: correct teleporter capsule; guide confirms boss-to-pod order"
+    },
+    "5480031": {
+      "map": 13,
+      "x": 56,
+      "y": 704,
+      "method": "User screenshot: correct teleporter capsule; guide confirms boss-to-pod order"
+    },
+    "5480033": {
+      "map": 13,
+      "x": 216,
+      "y": 700,
+      "method": "User screenshot: correct teleporter capsule; guide confirms boss-to-pod order"
+    },
+    "5480037": {
+      "map": 13,
+      "x": 312,
+      "y": 700,
+      "method": "User screenshot: correct teleporter capsule; guide confirms boss-to-pod order"
+    },
+    "5480035": {
+      "map": 13,
+      "x": 472,
+      "y": 700,
+      "method": "User screenshot: correct teleporter capsule; guide confirms boss-to-pod order"
+    },
+    "5480020": {
+      "map": 0,
+      "x": 2057,
+      "y": 209,
+      "method": "User screenshot: Mega Ball gift on the surface path before the underground entrance"
+    }
+  },
+  "notes": {
+    "5480133": "Visible bolt / breakable-container position",
+    "5480101": "Visible bolt / breakable-container position",
+    "5480100": "Visible bolt / breakable-container position",
+    "5480110": "Visible bolt / breakable-container position",
+    "5480122": "Visible bolt / breakable-container position",
+    "5480107": "Visible bolt / breakable-container position",
+    "5480108": "Visible bolt / breakable-container position",
+    "5480109": "Visible bolt / breakable-container position",
+    "5480102": "Visible bolt / breakable-container position",
+    "5480123": "Visible bolt / breakable-container position",
+    "5480103": "Visible bolt / breakable-container position",
+    "5480104": "Visible bolt / breakable-container position",
+    "5480106": "Guide room reference; hidden bolt exact pixel unverified",
+    "5480105": "Guide room reference; hidden bolt exact pixel unverified",
+    "5480115": "Visible bolt / breakable-container position",
+    "5480132": "Visible bolt / breakable-container position",
+    "5480116": "Visible bolt / breakable-container position",
+    "5480117": "Visible bolt / breakable-container position",
+    "5480118": "Visible bolt / breakable-container position",
+    "5480111": "Visible bolt / breakable-container position",
+    "5480114": "Guide room reference; hidden bolt exact pixel unverified",
+    "5480112": "Visible bolt / breakable-container position",
+    "5480113": "Visible bolt / breakable-container position",
+    "5480138": "Visible bolt / breakable-container position",
+    "5480139": "Visible bolt / breakable-container position",
+    "5480127": "Visible bolt / breakable-container position",
+    "5480124": "Visible bolt / breakable-container position",
+    "5480125": "Visible bolt / breakable-container position",
+    "5480126": "Visible bolt / breakable-container position",
+    "5480128": "Visible bolt / breakable-container position",
+    "5480129": "Visible bolt / breakable-container position",
+    "5480130": "Visible bolt / breakable-container position",
+    "5480131": "Visible bolt / breakable-container position",
+    "5480134": "Guide room reference; hidden bolt exact pixel unverified",
+    "5480135": "Visible bolt / breakable-container position",
+    "5480136": "Guide room reference; hidden bolt exact pixel unverified",
+    "5480137": "Visible bolt / breakable-container position",
+    "5480119": "Visible bolt / breakable-container position",
+    "5480120": "Visible bolt / breakable-container position",
+    "5480121": "Visible bolt / breakable-container position",
+    "5480335": "sprite matched and visually checked",
+    "5480300": "sprite matched and visually checked",
+    "5480301": "sprite matched and visually checked",
+    "5480302": "sprite matched and visually checked",
+    "5480303": "sprite matched and visually checked",
+    "5480318": "sprite matched and visually checked",
+    "5480319": "sprite matched and visually checked",
+    "5480316": "sprite matched and visually checked",
+    "5480317": "sprite matched and visually checked",
+    "5480320": "sprite matched and visually checked",
+    "5480321": "sprite matched and visually checked",
+    "5480322": "sprite matched and visually checked",
+    "5480324": "sprite matched and visually checked",
+    "5480326": "sprite matched and visually checked",
+    "5480327": "sprite matched and visually checked",
+    "5480328": "sprite matched and visually checked",
+    "5480330": "sprite matched and visually checked",
+    "5480331": "sprite matched and visually checked",
+    "5480333": "sprite matched and visually checked",
+    "5480338": "sprite matched and visually checked",
+    "5480339": "sprite matched and visually checked",
+    "5480340": "sprite matched and visually checked",
+    "5480304": "sprite matched and visually checked",
+    "5480323": "sprite matched and visually checked",
+    "5480325": "sprite matched and visually checked",
+    "5480329": "sprite matched and visually checked",
+    "5480332": "sprite matched and visually checked",
+    "5480334": "sprite matched and visually checked",
+    "5480336": "sprite matched and visually checked",
+    "5480341": "sprite matched and visually checked",
+    "5480337": "Disc spawn coordinate aligned to adjacent weapon pickup in the same room",
+    "5480305": "Exact engine coordinates on a labeled reference; not placed on unverified terrain",
+    "5480306": "Exact engine coordinates on a labeled reference; not placed on unverified terrain",
+    "5480307": "Exact engine coordinates on a labeled reference; not placed on unverified terrain",
+    "5480308": "Exact engine coordinates on a labeled reference; not placed on unverified terrain",
+    "5480309": "Exact engine coordinates on a labeled reference; not placed on unverified terrain",
+    "5480310": "Exact engine coordinates on a labeled reference; not placed on unverified terrain",
+    "5480311": "Exact engine coordinates on a labeled reference; not placed on unverified terrain",
+    "5480312": "Exact engine coordinates on a labeled reference; not placed on unverified terrain",
+    "5480313": "Exact engine coordinates on a labeled reference; not placed on unverified terrain",
+    "5480314": "Exact engine coordinates on a labeled reference; not placed on unverified terrain",
+    "5480315": "Exact engine coordinates on a labeled reference; not placed on unverified terrain"
+  }
+}

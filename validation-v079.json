@@ -1,0 +1,9 @@
+{
+  "version": "0.7.9",
+  "status": "passed",
+  "lua_access_assertions": 76192,
+  "checked": "All 126 JSON access rules use ^$ level syntax; numeric wrappers checked alongside every route; both logic modes, modern/legacy selections, connected/offline states, 128 inventories each, red/green/yellow routes, access codes, Duo/vanilla stage gates, specific seven-weapon Wily gate, optional visibility, syntax/assets/bounds/AP identity",
+  "ap_checks_preserved": 126,
+  "informational_markers": 1,
+  "live_gui_test": false
+}

@@ -1,0 +1,9 @@
+{
+  "version": "0.7.7",
+  "status": "passed",
+  "lua_access_assertions": 36048,
+  "checked": "Both logic modes, modern/legacy selections, connected/offline states, 128 inventories each, red/green/yellow routes, access codes, Duo/vanilla stage gates, specific seven-weapon Wily gate, optional visibility, syntax/assets/bounds/AP identity",
+  "ap_checks_preserved": 126,
+  "informational_markers": 1,
+  "live_gui_test": false
+}

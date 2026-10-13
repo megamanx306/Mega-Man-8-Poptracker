@@ -1,0 +1,16 @@
+{
+  "apworld": "mm8 (3).apworld",
+  "sha256": "05d18b7d5065720d2b683099f224fcf6dbb32725b348fa00bf35fdf606611f92",
+  "item_count": 42,
+  "location_count": 126,
+  "apworld_version": "0.2.2",
+  "legacy_apworld_version": "0.1.0",
+  "legacy_detection": "Connected slot omits stage_order",
+  "supported_apworld_versions": [
+    "0.1.0",
+    "0.2.0",
+    "0.2.1",
+    "0.2.2"
+  ],
+  "version_detection": "0.2.1 and 0.2.2 use the same location set and version toggle; confirmed 0.2.2 Search door rules apply in both modes."
+}
