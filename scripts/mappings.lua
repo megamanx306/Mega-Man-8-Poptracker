@@ -43,6 +43,7 @@ ITEMS = {
  [5480087] = "i5480087",
 }
 LOCATIONS = {
+ [5480343] = "@Frost Man - Large Life Energy 6/Frost Man - Large Life Energy 6",
  [5480342] = "@Frost Man - Large Life Energy 5/Frost Man - Large Life Energy 5",
  [5480000] = "@Frost Man - Defeated/Frost Man - Defeated",
  [5480102] = "@Frost Man - Bolt 1/Frost Man - Bolt 1",

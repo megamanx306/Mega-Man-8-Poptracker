@@ -1,3 +1,5 @@
+> Historical report. Resolved in APWorld 0.2.3: the reported capsule is now Frost Large Life Energy 6 (5480343). Original names stay unchanged; temporary field-order aliases below are obsolete. New user playtest: Energy 2 and 3 need no weapon, Energy 6 uses Tornado Hold or difficult Mega Ball jumps.
+
 # MM8 0.2.2 playtest notes for Shinnuu — draft
 
 User reports from a run on 2026-10-12/13. Not sent or posted. Times below are copied exactly; their timezone is not independently established.

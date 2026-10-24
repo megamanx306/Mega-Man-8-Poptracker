@@ -343,28 +343,28 @@
     "name": "Require stage access codes",
     "type": "toggle",
     "codes": "opt_stage_unlocks",
-    "img": "images/opt_stage_unlocks.png",
+    "img": "images/settings-stage_unlocks.png",
     "initial_active_state": false
   },
   {
     "name": "Enable Pickupsanity checks",
     "type": "toggle",
     "codes": "opt_pickupsanity",
-    "img": "images/opt_pickupsanity.png",
+    "img": "images/settings-pickupsanity.png",
     "initial_active_state": false
   },
   {
     "name": "Enable Wily 4 rematch checks",
     "type": "toggle",
     "codes": "opt_rematch_checks",
-    "img": "images/opt_rematch_checks.png",
+    "img": "images/settings-rematch_checks.png",
     "initial_active_state": false
   },
   {
     "name": "Bolts per received bundle",
     "type": "consumable",
     "codes": "opt_bolt_bundle_size",
-    "img": "images/opt_bolt_bundle_size.png",
+    "img": "images/settings-bolt_bundle_size.png",
     "min_quantity": 1,
     "max_quantity": 20,
     "initial_quantity": 5
@@ -481,21 +481,21 @@
     "name": "AP seed logic",
     "type": "toggle",
     "codes": "opt_strict_seed_logic",
-    "img": "images/opt_strict_seed_logic.png",
+    "img": "images/settings-strict_seed_logic.png",
     "initial_active_state": true
   },
   {
     "name": "World v0.2.0 or newer",
     "type": "toggle",
     "codes": "opt_world_v020",
-    "img": "images/opt_world_v020.png",
+    "img": "images/settings-world_v020.png",
     "initial_active_state": true
   },
   {
     "name": "Stage order: 0 vanilla, 1 open, 2 any four",
     "type": "consumable",
     "codes": "opt_stage_order",
-    "img": "images/opt_world_v020.png",
+    "img": "images/settings-stage_order.png",
     "min_quantity": 0,
     "max_quantity": 2,
     "initial_quantity": 0
@@ -632,7 +632,14 @@
     "name": "Seed v0.2.1 or v0.2.2: ON / older: OFF",
     "type": "toggle",
     "codes": "opt_world_v021",
-    "img": "images/opt_world_v021.png",
+    "img": "images/settings-world_v021.png",
+    "initial_active_state": true
+  },
+  {
+    "name": "Seed v0.2.3: new Frost Life Energy 6",
+    "type": "toggle",
+    "codes": "opt_world_v023",
+    "img": "images/settings-world_v023.png",
     "initial_active_state": true
   }
 ]

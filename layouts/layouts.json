@@ -316,42 +316,72 @@
     "type": "dock",
     "content": [
       {
+        "type": "text",
+        "dock": "top",
+        "text": "SEED OPTIONS"
+      },
+      {
         "type": "itemgrid",
-        "item_size": "88,60",
+        "dock": "top",
+        "item_size": "104,80",
         "rows": [
           [
             "opt_stage_unlocks",
             "opt_pickupsanity",
-            "opt_rematch_checks",
-            "opt_bolt_bundle_size"
-          ]
-        ],
-        "dock": "top"
-      },
-      {
-        "type": "text",
-        "dock": "top",
-        "text": "AP seed logic ON uses world requirements; OFF uses playtested routes. Yellow means an optional difficult route or an early fortress visit."
-      },
-      {
-        "type": "itemgrid",
-        "dock": "top",
-        "item_size": "80,72",
-        "rows": [
-          [
-            "opt_strict_seed_logic",
-            "opt_world_v020",
-            "opt_stage_order"
+            "opt_rematch_checks"
           ],
           [
-            "opt_world_v021"
+            "opt_stage_order",
+            "opt_bolt_bundle_size"
           ]
         ]
       },
       {
         "type": "text",
         "dock": "top",
-        "text": "Seed 0.2.1 ON = per-check rules; OFF = legacy rules. Pickup-insanity seeds auto-detect from the ice-block check. Without pickup insanity, choose the version used to GENERATE your seed. Client upgrades do not change seed logic. Search Bolt 2/3 labels include the old numbering."
+        "text": "Stage order: 0 vanilla | 1 open | 2 any four"
+      },
+      {
+        "type": "text",
+        "dock": "top",
+        "text": "LOGIC MODE"
+      },
+      {
+        "type": "itemgrid",
+        "dock": "top",
+        "item_size": "104,80",
+        "rows": [
+          [
+            "opt_strict_seed_logic"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "dock": "top",
+        "text": "ON: seed rules with confirmed corrections. OFF: playtest routes.\nYellow: difficult Mega Ball alternative. Green takes priority."
+      },
+      {
+        "type": "text",
+        "dock": "top",
+        "text": "OFFLINE SEED VERSION"
+      },
+      {
+        "type": "itemgrid",
+        "dock": "top",
+        "item_size": "104,80",
+        "rows": [
+          [
+            "opt_world_v020",
+            "opt_world_v021",
+            "opt_world_v023"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "dock": "top",
+        "text": "Enable each version up to the seed you generated.\nFor 0.2.3, enable all three. Older seeds do not gain new checks.\nConnected seeds sync options and pickup visibility."
       }
     ]
   }

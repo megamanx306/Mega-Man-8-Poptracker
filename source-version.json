@@ -1,16 +1,17 @@
 {
-  "apworld": "mm8 (3).apworld",
-  "sha256": "05d18b7d5065720d2b683099f224fcf6dbb32725b348fa00bf35fdf606611f92",
+  "apworld": "mm8.apworld (mm8-v0.2.3 release)",
+  "sha256": "16e2ebce4e932d51960379c3c14f2f29480416155c3bf62a680d5b840d440d02",
   "item_count": 42,
-  "location_count": 126,
-  "apworld_version": "0.2.2",
+  "location_count": 127,
+  "apworld_version": "0.2.3",
   "legacy_apworld_version": "0.1.0",
   "legacy_detection": "Connected slot omits stage_order",
   "supported_apworld_versions": [
     "0.1.0",
     "0.2.0",
     "0.2.1",
-    "0.2.2"
+    "0.2.2",
+    "0.2.3"
   ],
-  "version_detection": "0.2.1 and 0.2.2 use the same location set and version toggle; confirmed 0.2.2 Search door rules apply in both modes."
+  "version_detection": "Connected new Frost capsule 5480343 identifies the 0.2.3 pickup set. Offline Seed v0.2.3 toggle; no change to pre-existing primary names."
 }

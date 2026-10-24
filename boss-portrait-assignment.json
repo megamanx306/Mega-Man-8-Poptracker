@@ -1,0 +1,66 @@
+[
+  {
+    "boss": "Frost Man",
+    "code": "i5480080",
+    "image": "images/stage-frost.png",
+    "source_old_index": 3,
+    "sha256": "19185a04cba756c0f91af74f8fcad5a21b95c813c9c03bac43dba27f0f9ce0d6",
+    "verified": "User supplied boss reference and explicit Frost/Grenade correction, 2026-10-01"
+  },
+  {
+    "boss": "Clown Man",
+    "code": "i5480081",
+    "image": "images/stage-clown.png",
+    "source_old_index": 0,
+    "sha256": "1f1a547d2f728fb78f04eff0765b2d5a26043ced0937b533e95e8152d3cb4d3c",
+    "verified": "Portrait identity checked visually against the uploaded active icon strip and the named boss guide"
+  },
+  {
+    "boss": "Tengu Man",
+    "code": "i5480082",
+    "image": "images/stage-tengu.png",
+    "source_old_index": 1,
+    "sha256": "aac72146ef47ccde86cbf559b8bcda7513a479da441def295ee48a8b49274c4b",
+    "verified": "Portrait identity checked visually against the uploaded active icon strip and the named boss guide"
+  },
+  {
+    "boss": "Grenade Man",
+    "code": "i5480083",
+    "image": "images/stage-grenade.png",
+    "source_old_index": 2,
+    "sha256": "412665e490875fbc82cd5c667b8d60fc09ca343c5f8c5b64fb2aefbe325d05eb",
+    "verified": "User supplied boss reference and explicit Frost/Grenade correction, 2026-10-01"
+  },
+  {
+    "boss": "Sword Man",
+    "code": "i5480084",
+    "image": "images/stage-sword.png",
+    "source_old_index": 7,
+    "sha256": "4fbd7b2f86b4039dd185a5a77346d1cc9bd44b481573aed7fec6c411478cfd76",
+    "verified": "Portrait identity checked visually against the uploaded active icon strip and the named boss guide"
+  },
+  {
+    "boss": "Aqua Man",
+    "code": "i5480085",
+    "image": "images/stage-aqua.png",
+    "source_old_index": 5,
+    "sha256": "c619a828eeca827e997dfb9ab523b79aac6a6bda1c40823b9af7cb4d66a0b90a",
+    "verified": "Portrait identity checked visually against the uploaded active icon strip and the named boss guide"
+  },
+  {
+    "boss": "Astro Man",
+    "code": "i5480086",
+    "image": "images/stage-astro.png",
+    "source_old_index": 4,
+    "sha256": "0230b2821ea092f0640f250d22696787138d3671677092cdf4fba230dbca385e",
+    "verified": "Portrait identity checked visually against the uploaded active icon strip and the named boss guide"
+  },
+  {
+    "boss": "Search Man",
+    "code": "i5480087",
+    "image": "images/stage-search.png",
+    "source_old_index": 6,
+    "sha256": "9ae517fc8f0919c6c29401a7ea3f5674a212117cd15a872867072a959b8109d7",
+    "verified": "Portrait identity checked visually against the uploaded active icon strip and the named boss guide"
+  }
+]

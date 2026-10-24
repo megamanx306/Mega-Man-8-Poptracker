@@ -1,0 +1,9 @@
+{
+  "version": "0.7.12",
+  "status": "passed",
+  "AP_checks_preserved": 127,
+  "separated_pairs": 6,
+  "pair_hitboxes": "All six pairs non-overlapping",
+  "scripts": "Byte-identical to 0.7.11",
+  "live_GUI_test": false
+}

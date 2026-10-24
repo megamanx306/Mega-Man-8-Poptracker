@@ -1,0 +1,11 @@
+{
+  "version": "0.7.10",
+  "status": "passed",
+  "targeted_color_assertions": 640,
+  "visibility_assertions": 640,
+  "autotracking": "New check received, restored checked state, old-seed reconnect and hiding passed",
+  "syntax": "All Lua and JSON passed",
+  "existing_AP_paths_preserved": 126,
+  "AP_checks": 127,
+  "live_test": "Prior yellow colors confirmed by user; new build not tested in GUI"
+}

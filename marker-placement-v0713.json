@@ -1,0 +1,240 @@
+{
+  "version": "0.7.13",
+  "changes": [
+    {
+      "id": 5480104,
+      "name": "Frost Man - Bolt 4",
+      "old_position": {
+        "map": "full2",
+        "x": 2054,
+        "y": 1018,
+        "size": 72
+      },
+      "new_position": {
+        "map": "full2",
+        "x": 2042,
+        "y": 1057,
+        "size": 72
+      },
+      "screenshot": "image(20261024-065025).png",
+      "template_match": 0.9448
+    },
+    {
+      "id": 5480343,
+      "name": "Frost Man - Large Life Energy 6",
+      "old_position": {
+        "map": "full2",
+        "x": 2054,
+        "y": 1106,
+        "size": 72
+      },
+      "new_position": {
+        "map": "full2",
+        "x": 2066,
+        "y": 1059,
+        "size": 72
+      },
+      "screenshot": "image(20261024-065025).png",
+      "template_match": 0.9448
+    },
+    {
+      "id": 5480303,
+      "name": "Frost Man - Large Life Energy 4",
+      "old_position": {
+        "map": "full2",
+        "x": 4958,
+        "y": 481,
+        "size": 72
+      },
+      "new_position": {
+        "map": "full2",
+        "x": 4952,
+        "y": 525,
+        "size": 72
+      },
+      "screenshot": "image(20261024-065137).png",
+      "template_match": 0.9884
+    },
+    {
+      "id": 5480304,
+      "name": "Frost Man - Large Weapon Energy 1",
+      "old_position": {
+        "map": "full2",
+        "x": 4958,
+        "y": 569,
+        "size": 72
+      },
+      "new_position": {
+        "map": "full2",
+        "x": 4963,
+        "y": 525,
+        "size": 72
+      },
+      "screenshot": "image(20261024-065137).png",
+      "template_match": 0.9884
+    },
+    {
+      "id": 5480114,
+      "name": "Tengu Man - Bolt 2",
+      "old_position": {
+        "map": "full4",
+        "x": 5608,
+        "y": 556,
+        "size": 72
+      },
+      "new_position": {
+        "map": "full4",
+        "x": 5622,
+        "y": 484,
+        "size": 72
+      },
+      "screenshot": "image(20261024-065320).png",
+      "template_match": 0.9345
+    },
+    {
+      "id": 5480125,
+      "name": "Aqua Man - Bolt 3",
+      "old_position": {
+        "map": "full6",
+        "x": 5540,
+        "y": 2716,
+        "size": 69
+      },
+      "new_position": {
+        "map": "full6",
+        "x": 5529,
+        "y": 2789,
+        "size": 69
+      },
+      "screenshot": "image(20261024-065453).png",
+      "template_match": 0.9515
+    },
+    {
+      "id": 5480326,
+      "name": "Aqua Man - Large Life Energy 2",
+      "old_position": {
+        "map": "full6",
+        "x": 5540,
+        "y": 2868,
+        "size": 69
+      },
+      "new_position": {
+        "map": "full6",
+        "x": 5554,
+        "y": 2789,
+        "size": 69
+      },
+      "screenshot": "image(20261024-065453).png",
+      "template_match": 0.9515
+    },
+    {
+      "id": 5480329,
+      "name": "Aqua Man - Large Weapon Energy 3",
+      "old_position": {
+        "map": "full6",
+        "x": 5984,
+        "y": 4066,
+        "size": 69
+      },
+      "new_position": {
+        "map": "full6",
+        "x": 5969,
+        "y": 4018,
+        "size": 69
+      },
+      "screenshot": "image(20261024-065541).png",
+      "template_match": 0.9922
+    },
+    {
+      "id": 5480328,
+      "name": "Aqua Man - Large Life Energy 4",
+      "old_position": {
+        "map": "full6",
+        "x": 5984,
+        "y": 3982,
+        "size": 69
+      },
+      "new_position": {
+        "map": "full6",
+        "x": 6001,
+        "y": 4022,
+        "size": 69
+      },
+      "screenshot": "image(20261024-065541).png",
+      "template_match": 0.9922
+    },
+    {
+      "id": 5480331,
+      "name": "Astro Man - Large Life Energy",
+      "old_position": {
+        "map": "full7",
+        "x": 3496,
+        "y": 890,
+        "size": 72
+      },
+      "new_position": {
+        "map": "full7",
+        "x": 3482,
+        "y": 933,
+        "size": 72
+      },
+      "screenshot": "image(20261024-065632).png",
+      "template_match": 0.9876
+    },
+    {
+      "id": 5480332,
+      "name": "Astro Man - Large Weapon Energy",
+      "old_position": {
+        "map": "full7",
+        "x": 3496,
+        "y": 978,
+        "size": 72
+      },
+      "new_position": {
+        "map": "full7",
+        "x": 3506,
+        "y": 932,
+        "size": 72
+      },
+      "screenshot": "image(20261024-065632).png",
+      "template_match": 0.9876
+    },
+    {
+      "id": 5480333,
+      "name": "Search Man - Large Life Energy",
+      "old_position": {
+        "map": "full8",
+        "x": 2427,
+        "y": 790,
+        "size": 72
+      },
+      "new_position": {
+        "map": "full8",
+        "x": 2411,
+        "y": 833,
+        "size": 72
+      },
+      "screenshot": "image(20261024-065719).png",
+      "template_match": 0.9425
+    },
+    {
+      "id": 5480334,
+      "name": "Search Man - Large Weapon Energy",
+      "old_position": {
+        "map": "full8",
+        "x": 2427,
+        "y": 878,
+        "size": 72
+      },
+      "new_position": {
+        "map": "full8",
+        "x": 2439,
+        "y": 830,
+        "size": 72
+      },
+      "screenshot": "image(20261024-065719).png",
+      "template_match": 0.9425
+    }
+  ],
+  "placement": "Individual screenshot pickup/block targets; no shared-marker grouping or artificial vertical spreading."
+}

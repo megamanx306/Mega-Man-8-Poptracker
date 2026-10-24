@@ -1,0 +1,78 @@
+{
+  "version": "0.7.12",
+  "shared_groups_removed": 6,
+  "markers": [
+    {
+      "check": "Frost Man - Bolt 4",
+      "map": "full2",
+      "x": 2054,
+      "y": 1018
+    },
+    {
+      "check": "Frost Man - Large Life Energy 6",
+      "map": "full2",
+      "x": 2054,
+      "y": 1106
+    },
+    {
+      "check": "Frost Man - Large Life Energy 4",
+      "map": "full2",
+      "x": 4958,
+      "y": 481
+    },
+    {
+      "check": "Frost Man - Large Weapon Energy 1",
+      "map": "full2",
+      "x": 4958,
+      "y": 569
+    },
+    {
+      "check": "Aqua Man - Bolt 3",
+      "map": "full6",
+      "x": 5540,
+      "y": 2716
+    },
+    {
+      "check": "Aqua Man - Large Life Energy 2",
+      "map": "full6",
+      "x": 5540,
+      "y": 2868
+    },
+    {
+      "check": "Aqua Man - Large Life Energy 4",
+      "map": "full6",
+      "x": 5984,
+      "y": 3982
+    },
+    {
+      "check": "Aqua Man - Large Weapon Energy 3",
+      "map": "full6",
+      "x": 5984,
+      "y": 4066
+    },
+    {
+      "check": "Astro Man - Large Life Energy",
+      "map": "full7",
+      "x": 3496,
+      "y": 890
+    },
+    {
+      "check": "Astro Man - Large Weapon Energy",
+      "map": "full7",
+      "x": 3496,
+      "y": 978
+    },
+    {
+      "check": "Search Man - Large Life Energy",
+      "map": "full8",
+      "x": 2427,
+      "y": 790
+    },
+    {
+      "check": "Search Man - Large Weapon Energy",
+      "map": "full8",
+      "x": 2427,
+      "y": 878
+    }
+  ]
+}

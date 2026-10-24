@@ -9,6 +9,7 @@ ScriptHost:LoadScript("scripts/logic-data.lua")
 ScriptHost:LoadScript("scripts/playtest-rules.lua")
 ScriptHost:LoadScript("scripts/logic-v021.lua")
 ScriptHost:LoadScript("scripts/confirmed-rules.lua")
+MM8_DATA.stage[5480343] = "Frost Man"
 ScriptHost:LoadScript("scripts/logic.lua")
 Tracker:AddMaps("maps/maps.json")
 Tracker:AddLocations("locations/locations.json")

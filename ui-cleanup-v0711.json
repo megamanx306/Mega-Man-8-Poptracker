@@ -1,0 +1,76 @@
+{
+  "marker_sizes": {
+    "full0": 48,
+    "full1": 72,
+    "full2": 72,
+    "full3": 72,
+    "full4": 72,
+    "full5": 22,
+    "full6": 69,
+    "full7": 72,
+    "full8": 72,
+    "full9": 47,
+    "full10": 72,
+    "full11": 72,
+    "full12": 55,
+    "full13": 22,
+    "lab": 22
+  },
+  "shared_marker_groups": [
+    {
+      "map": "full2",
+      "x": 2054,
+      "y": 1062,
+      "checks": [
+        "Frost Man - Bolt 4",
+        "Frost Man - Large Life Energy 6"
+      ]
+    },
+    {
+      "map": "full2",
+      "x": 4958,
+      "y": 525,
+      "checks": [
+        "Frost Man - Large Life Energy 4",
+        "Frost Man - Large Weapon Energy 1"
+      ]
+    },
+    {
+      "map": "full6",
+      "x": 5540,
+      "y": 2792,
+      "checks": [
+        "Aqua Man - Bolt 3",
+        "Aqua Man - Large Life Energy 2"
+      ]
+    },
+    {
+      "map": "full6",
+      "x": 5984,
+      "y": 4024,
+      "checks": [
+        "Aqua Man - Large Life Energy 4",
+        "Aqua Man - Large Weapon Energy 3"
+      ]
+    },
+    {
+      "map": "full7",
+      "x": 3496,
+      "y": 934,
+      "checks": [
+        "Astro Man - Large Life Energy",
+        "Astro Man - Large Weapon Energy"
+      ]
+    },
+    {
+      "map": "full8",
+      "x": 2427,
+      "y": 834,
+      "checks": [
+        "Search Man - Large Life Energy",
+        "Search Man - Large Weapon Energy"
+      ]
+    }
+  ],
+  "refill_note": "Stay to the far left to collect these 11 checks."
+}

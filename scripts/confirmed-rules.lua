@@ -1,13 +1,17 @@
 -- User playtest 2026-10-12 plus APWorld 0.2.2 Search door correction.
 -- Applied after version tables in both logic modes. IDs stay server-stable.
 MM8_CONFIRMED = {
+    [5480342] = {{"Astro Crush", "Flame Sword"}},
+    [5480104] = {{"Tornado Hold"}},
+    [5480343] = {{"Tornado Hold"}},
+    [5480114] = {{"Homing Sniper", "Astro Crush"}},
     [5480005] = {},
     [5480006] = {},
     [5480007] = {},
     [5480013] = {},
     [5480103] = {{"Tornado Hold"}},
     [5480108] = {{"Tornado Hold"}},
-    [5480105] = {{"Astro Crush"}, {"Mega Ball", "Tornado Hold"}},
+    [5480105] = {{"Astro Crush", "Flame Sword"}, {"Mega Ball", "Tornado Hold"}},
     [5480109] = {{"Tornado Hold"}},
     [5480110] = {{"Rush Bike"}},
     [5480124] = {{"Tornado Hold"}},
@@ -23,8 +27,8 @@ MM8_CONFIRMED = {
     [5480137] = {{"Thunder Claw"}},
     [5480138] = {{"Mega Ball", "Tornado Hold"}},
     [5480139] = {{"Mega Ball", "Tornado Hold"}},
-    [5480301] = {{"Tornado Hold"}},
-    [5480302] = {{"Tornado Hold"}},
+    [5480301] = {},
+    [5480302] = {},
     [5480318] = {},
     [5480323] = {{"Astro Crush"}},
     [5480324] = {{"Tornado Hold"}},
@@ -42,13 +46,13 @@ MM8_CONFIRMED = {
 
 -- Difficult airborne Mega Ball routes; evaluated only if the normal route fails.
 MM8_CONFIRMED_YELLOW = {
+    [5480104] = {{"Mega Ball"}},
+    [5480343] = {{"Mega Ball"}},
     [5480103] = {{"Mega Ball"}},
     [5480108] = {{"Mega Ball"}},
     [5480109] = {{"Mega Ball"}},
     [5480110] = {{"Mega Ball"}},
     [5480136] = {{"Mega Ball"}},
-    [5480301] = {{"Mega Ball"}},
-    [5480302] = {{"Mega Ball"}},
     [5480333] = {{"Mega Ball"}},
     [5480334] = {{"Mega Ball"}},
 }

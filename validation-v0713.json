@@ -1,0 +1,10 @@
+{
+  "version": "0.7.13",
+  "status": "passed",
+  "markers_aligned": 13,
+  "evidence": "All 13 uploaded arrows inspected; seven image-to-map registrations, match scores >0.93",
+  "AP_checks_preserved": 127,
+  "logic_and_settings": "Byte-identical to 0.7.12",
+  "marker_QA": "Rendered local map crops inspected; centers remain distinct and in bounds",
+  "live_GUI_test": false
+}

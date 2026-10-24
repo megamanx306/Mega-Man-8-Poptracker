@@ -1,0 +1,11 @@
+{
+  "version": "0.7.11",
+  "status": "passed",
+  "targeted_access_color_assertions": 384,
+  "AP_checks_preserved": 127,
+  "map_art_outside_annotation": "Pixel-identical",
+  "markers": "Consistent per-map sizes, bounds checked, six tight shared groups",
+  "settings": "Uniform 104x80 cards; grid references validated; generated cards visually inspected",
+  "refill_notes": "11 tooltips and baked map panel corrected",
+  "live_GUI_test": false
+}

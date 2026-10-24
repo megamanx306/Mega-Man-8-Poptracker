@@ -1,6 +1,6 @@
-# Mega Man 8 — Maps and Logic v0.7.9
+# Mega Man 8 — Maps and Logic v0.7.13
 
-Archipelago PopTracker pack for Mega Man 8. Supports Shinnuu APWorld 0.2.2, 0.2.1, 0.2.0, and legacy 0.1.0 seeds. Includes 126 server-backed checks plus an informational marker for the missing Frost capsule.
+Archipelago PopTracker pack for Mega Man 8. Supports Shinnuu APWorld 0.2.3, 0.2.2, 0.2.1, 0.2.0, and legacy 0.1.0 seeds. Includes 127 server-backed checks.
 
 ## Installation
 
@@ -18,8 +18,10 @@ The 2026-10-12 playtest corrections apply with AP seed logic ON or OFF. The togg
 | --- | --- | --- |
 | Grenade Large Life Energy 1 | No weapon requirement | — |
 | All Astro checks | No weapon requirement | — |
-| Frost Bolt 6 | Astro Crush AND (Mega Ball OR Tornado Hold) | — |
-| Frost Large Life Energy 2 and server Energy 3 / field Energy 4 | Tornado Hold | Mega Ball |
+| Frost Bolt 6 | (Astro Crush OR Flame Sword) AND (Mega Ball OR Tornado Hold) | — |
+| Frost Large Life Energy 2 and 3 | No weapon requirement | — |
+| Frost Large Life Energy 6 | Tornado Hold | Mega Ball |
+| Tengu Bolt 2 | Homing Sniper OR Astro Crush | — |
 | Clown Bolt 1 | Rush Bike | Mega Ball |
 | Frost Bolt 3 | Tornado Hold | Mega Ball |
 | Clown Bolts 4 and 5 | Tornado Hold | Mega Ball |
@@ -40,22 +42,11 @@ Stage order and stage access codes still apply. Removed the blanket Mega Ball/Th
 
 All Wily stage checks share an entry gate: eight Robot Masters defeated, Duo cleared, and Ice Wave, Thunder Claw, Tornado Hold, Flash Bomb, Flame Sword, Astro Crush, and Homing Sniper received. Water Balloon is not required. This specifically reflects the reported seven-weapon entry without Water Balloon, not an arbitrary seven-of-eight rule. Per-check requirements still apply.
 
-## Frost pickup identities
+## Frost pickup identities — 0.2.3
 
-Moved Energy 2 to the screenshot-marked orange platform after Bolt 3; moved Search Bolt 1 to the green position in its screenshot. Server IDs and primary names remain unchanged.
+Energy 6 is now a real AP check, **5480343**, at the lower stacked ice block beside Bolt 4 (uploaded screenshot). The previous zero-check note has been replaced with an auto-tracked check. Existing Energy 1–5 retain the server names: the temporary field-order aliases are retired. Energy 2 and 3 are weapon-free; Energy 6 uses Tornado Hold (green) or Mega Ball (yellow). No Astro Crush requirement is added to Energy 6.
 
-| Field order reported by player | AP server check | ID |
-| --- | --- | --- |
-| Energy 1 | Large Life Energy 1 | 5480300 |
-| Energy 2, after Bolt 3 | Large Life Energy 2 | 5480301 |
-| Energy 3, ice beside Bolt 4 | Missing from 0.2.2 | No AP ID |
-| Energy 4, before the tower | Large Life Energy 3 | 5480302 |
-| Energy 5, above Bolt 6 | Large Life Energy 5 | 5480342 |
-| Energy 6, second Jump/Slide area | Large Life Energy 4 | 5480303 |
-
-The missing capsule has an informational marker with zero AP checks. It cannot be auto-tracked or counted toward seed completion. Its position uses the previous misplaced Energy 2 reference beside Bolt 4; exact container placement remains a room reference. Movement advice is Tornado Hold (green) or airborne Mega Ball jumps (yellow). Field aliases are in tooltips; server names are retained so autotracking remains compatible.
-
-See `SHINNUU-PLAYTEST-NOTES-20261012.md` for the source discrepancy and the supplied collection log. This report is a draft and has not been sent.
+Connected seeds show the new check only if it exists in the server's location set, including already-completed checks. Updating a client on an older seed does not add the new pickup. Offline, turn Seed v0.2.3 ON with pickup insanity to display it; turn it OFF for older seeds.
 
 ## Seed settings and shop
 
@@ -63,7 +54,7 @@ The existing Seed v0.2.1 toggle also covers 0.2.2 because the check sets match. 
 
 Modern initial Lab stock requires 40 received bolts; legacy initial stock requires 21. Later stock requires Duo and 40. Counts use received bundles times bundle size, not remaining cash. The 0.2.2 in-game display cap of 99 is client-only and does not cap tracker totals.
 
-For Frost's final refill row, equip a weapon, lower its energy, and stay far left. Some placements remain room references.
+For Frost's final 11-check refill row, stay to the far left. Some placements remain room references.
 
 ## Credits
 
@@ -71,12 +62,20 @@ Map art: Zeric via VGMaps.com; URLs are in map-sources.json. Mega Man game art b
 
 ## Verification
 
-JSON/Lua syntax, image/map references, marker bounds, version consistency, all 126 unchanged AP paths, and route regressions in both modes were checked. See validation-v079.json for the actual results. No live PopTracker/emulator run was performed. Report issues with pack version, generating APWorld version, check name/ID, available items, options, and a screenshot.
+JSON/Lua syntax, image/map references, marker bounds, version consistency, all 126 unchanged AP paths, and route regressions in both modes were checked. See validation-v0713.json for the actual results. No live PopTracker/emulator run was performed. Report issues with pack version, generating APWorld version, check name/ID, available items, options, and a screenshot.
 
-## Version 0.7.8 — marker color correction
+## Version 0.7.10 — 2026-10-21 playtest
 
-All AP sections now call `^$mm8_access_level` instead of `$mm8_access`. Plain `$` interprets numeric sequence-break results as counts, so the previous pack could display a yellow route as green. The wrapper returns AccessibilityLevel.Normal for true, None for false, and retains SequenceBreak for the difficult Mega Ball routes. The informational Frost note uses the same conversion. Visibility rules remain boolean. Gameplay requirements and AP paths are unchanged.
+Yellow plausible checks confirmed working in-game by the user on the prior pack. This update makes Frost Energy 2/3 weapon-free, adds Energy 6 (5480343) with green Tornado Hold / yellow Mega Ball, and explicitly applies Tengu Bolt 2's Homing Sniper OR Astro Crush in both modes. Existing green-over-yellow precedence and all other 0.7.9 routes are retained. No live test of this new build has been performed.
 
-## Version 0.7.9 — refined yellow routes
+## Version 0.7.11 — completed 0.2.3 playtest
 
-Frost Bolt 3 and Clown Bolts 4/5 are green with Tornado Hold, yellow with Mega Ball when Tornado Hold is missing, and red without either. Search Life/Weapon Energy remain green with Thunder Claw, yellow with Mega Ball otherwise, and red without either. Search Bolt 2 remains green with Thunder Claw AND Tornado Hold, yellow with Mega Ball otherwise, and red with neither qualifying route. Normal green routes take precedence. Missing Frost capsules remain pending Shinnuu; no new AP IDs or marker moves in this update.
+User completed APWorld 0.2.3. Frost Life Energy 5 accepts Astro Crush OR Flame Sword. Bolt 6 requires (Astro Crush OR Flame Sword) AND (Mega Ball OR Tornado Hold), in both modes. Settings now have clear option/logic/version groups and matching labeled cards. Stage marker sizes are normalized relative to canvas width, with nearby shared-room markers consolidated into one popup; individual checks and AP paths remain unchanged. The 11-check refill-row panel and tooltips now say only to stay far left. New build not run in the PopTracker GUI.
+
+## Version 0.7.12 — separate check markers
+
+Reversed the shared-popup grouping introduced in 0.7.11. All six pairs, including Frost Bolt 4 and Energy 6, have separate, spaced clickable markers near their original locations. Consistent marker sizing, cleaned settings, Flame Sword routes and the corrected refill note are retained. No gameplay requirements or AP paths changed.
+
+## Version 0.7.13 — screenshot marker alignment
+
+Aligned 13 individual markers to the uploaded arrows: Frost Bolt 4, Life Energy 6, Life Energy 4 and Weapon Energy 1; Tengu Bolt 2; Aqua Bolt 3, Life Energy 2/4 and Weapon Energy 3; Astro Life/Weapon Energy; Search Life/Weapon Energy. Each marker follows its individual pickup or container rather than the automatic above/below offsets used in 0.7.12. Nearby checks retain separate coordinates and tracking sections. Zoom in on tightly packed pickups for precise selection. Logic, settings, marker sizes and the corrected Frost refill-row note are unchanged.

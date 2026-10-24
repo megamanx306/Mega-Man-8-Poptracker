@@ -22,6 +22,10 @@ local function clear(slot_data)
       if mm8_slot.stage_order==nil then v021.Active=false
       elseif seed_locations and (mm8_slot.pickupsanity==true or mm8_slot.pickupsanity==1) then v021.Active=seed_locations[5480342]==true end
     end
+    local v023 = Tracker:FindObjectForCode("opt_world_v023")
+    if v023 and seed_locations then
+        v023.Active = seed_locations[5480343] == true
+    end
     for _, code in pairs(ITEMS) do
         local obj = Tracker:FindObjectForCode(code)
         if obj then if obj.Type=="toggle" then obj.Active=false else obj.AcquiredCount=0 end end

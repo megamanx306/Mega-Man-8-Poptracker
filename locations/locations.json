@@ -9,7 +9,7 @@
         "map": "full2",
         "x": 8109,
         "y": 511,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -36,7 +36,7 @@
         "map": "full2",
         "x": 2886,
         "y": 227,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -63,7 +63,7 @@
         "map": "full2",
         "x": 1800,
         "y": 1024,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -88,9 +88,9 @@
     "map_locations": [
       {
         "map": "full2",
-        "x": 2044,
-        "y": 1064,
-        "size": 98
+        "x": 2042,
+        "y": 1057,
+        "size": 72
       }
     ],
     "sections": [
@@ -117,7 +117,7 @@
         "map": "full2",
         "x": 2518,
         "y": 921,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -129,7 +129,7 @@
         ]
       },
       {
-        "name": "Confirmed: Astro Crush AND (Mega Ball OR Tornado Hold). Astro Crush cannot be replaced by Flash Bomb or Flame Sword.",
+        "name": "Break the ice with Astro Crush OR Flame Sword; reach it with Mega Ball OR Tornado Hold. Both a breaking weapon and a movement option are required.",
         "item_count": 0
       }
     ]
@@ -144,7 +144,7 @@
         "map": "full2",
         "x": 2588,
         "y": 1159,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -175,7 +175,7 @@
         "map": "full2",
         "x": 6609,
         "y": 339,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -202,7 +202,7 @@
         "map": "full2",
         "x": 1729,
         "y": 138,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -225,7 +225,7 @@
         "map": "full2",
         "x": 1966,
         "y": 1048,
-        "size": 40
+        "size": 72
       }
     ],
     "sections": [
@@ -237,7 +237,7 @@
         ]
       },
       {
-        "name": "Screenshot-confirmed Energy 2: after Bolt 3, at the marked orange platform. Tornado Hold is green; airborne Mega Ball jumps are yellow.",
+        "name": "Confirmed 2026-10-21: no weapon or movement item required; stage entry still applies.",
         "item_count": 0
       }
     ]
@@ -252,7 +252,7 @@
         "map": "full2",
         "x": 2409,
         "y": 1025,
-        "size": 48
+        "size": 72
       }
     ],
     "sections": [
@@ -264,7 +264,7 @@
         ]
       },
       {
-        "name": "Playtest field Energy 4: before the tower; AP server name remains Large Life Energy 3. Tornado Hold is green; Mega Ball airborne jumps are yellow.",
+        "name": "Confirmed 2026-10-21: no weapon or movement item required; stage entry still applies.",
         "item_count": 0
       }
     ]
@@ -279,7 +279,7 @@
         "map": "full2",
         "x": 4952,
         "y": 525,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -289,10 +289,6 @@
         "access_rules": [
           "^$mm8_access_level|5480303"
         ]
-      },
-      {
-        "name": "Playtest field Energy 6: second Jump/Slide area. AP server name remains Large Life Energy 4.",
-        "item_count": 0
       }
     ]
   },
@@ -306,7 +302,7 @@
         "map": "full2",
         "x": 4963,
         "y": 525,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -329,7 +325,7 @@
         "map": "full2",
         "x": 6750,
         "y": 535,
-        "size": 48
+        "size": 72
       }
     ],
     "sections": [
@@ -341,11 +337,7 @@
         ]
       },
       {
-        "name": "Playtest 2026-10-03: Final refill row: equip a special weapon and drain some weapon energy before collecting weapon refills. Pickup insanity must be enabled.",
-        "item_count": 0
-      },
-      {
-        "name": "Collection tip: Lower some weapon energy and stay to the far left. Highlighted refill-row reference; source atlas masks the pickup sprites.",
+        "name": "Pickup insanity: stay to the far left to collect these 11 checks.",
         "item_count": 0
       }
     ]
@@ -360,7 +352,7 @@
         "map": "full2",
         "x": 6900,
         "y": 535,
-        "size": 48
+        "size": 72
       }
     ],
     "sections": [
@@ -372,11 +364,7 @@
         ]
       },
       {
-        "name": "Playtest 2026-10-03: Final refill row: equip a special weapon and drain some weapon energy before collecting weapon refills. Pickup insanity must be enabled.",
-        "item_count": 0
-      },
-      {
-        "name": "Collection tip: Lower some weapon energy and stay to the far left. Highlighted refill-row reference; source atlas masks the pickup sprites.",
+        "name": "Pickup insanity: stay to the far left to collect these 11 checks.",
         "item_count": 0
       }
     ]
@@ -391,7 +379,7 @@
         "map": "full2",
         "x": 7050,
         "y": 535,
-        "size": 48
+        "size": 72
       }
     ],
     "sections": [
@@ -403,11 +391,7 @@
         ]
       },
       {
-        "name": "Playtest 2026-10-03: Final refill row: equip a special weapon and drain some weapon energy before collecting weapon refills. Pickup insanity must be enabled.",
-        "item_count": 0
-      },
-      {
-        "name": "Collection tip: Lower some weapon energy and stay to the far left. Highlighted refill-row reference; source atlas masks the pickup sprites.",
+        "name": "Pickup insanity: stay to the far left to collect these 11 checks.",
         "item_count": 0
       }
     ]
@@ -422,7 +406,7 @@
         "map": "full2",
         "x": 7200,
         "y": 535,
-        "size": 48
+        "size": 72
       }
     ],
     "sections": [
@@ -434,11 +418,7 @@
         ]
       },
       {
-        "name": "Playtest 2026-10-03: Final refill row: equip a special weapon and drain some weapon energy before collecting weapon refills. Pickup insanity must be enabled.",
-        "item_count": 0
-      },
-      {
-        "name": "Collection tip: Lower some weapon energy and stay to the far left. Highlighted refill-row reference; source atlas masks the pickup sprites.",
+        "name": "Pickup insanity: stay to the far left to collect these 11 checks.",
         "item_count": 0
       }
     ]
@@ -453,7 +433,7 @@
         "map": "full2",
         "x": 7350,
         "y": 535,
-        "size": 48
+        "size": 72
       }
     ],
     "sections": [
@@ -465,11 +445,7 @@
         ]
       },
       {
-        "name": "Playtest 2026-10-03: Final refill row: equip a special weapon and drain some weapon energy before collecting weapon refills. Pickup insanity must be enabled.",
-        "item_count": 0
-      },
-      {
-        "name": "Collection tip: Lower some weapon energy and stay to the far left. Highlighted refill-row reference; source atlas masks the pickup sprites.",
+        "name": "Pickup insanity: stay to the far left to collect these 11 checks.",
         "item_count": 0
       }
     ]
@@ -484,7 +460,7 @@
         "map": "full2",
         "x": 7500,
         "y": 535,
-        "size": 48
+        "size": 72
       }
     ],
     "sections": [
@@ -496,11 +472,7 @@
         ]
       },
       {
-        "name": "Playtest 2026-10-03: Final refill row: equip a special weapon and drain some weapon energy before collecting weapon refills. Pickup insanity must be enabled.",
-        "item_count": 0
-      },
-      {
-        "name": "Collection tip: Lower some weapon energy and stay to the far left. Highlighted refill-row reference; source atlas masks the pickup sprites.",
+        "name": "Pickup insanity: stay to the far left to collect these 11 checks.",
         "item_count": 0
       }
     ]
@@ -515,7 +487,7 @@
         "map": "full2",
         "x": 6825,
         "y": 535,
-        "size": 48
+        "size": 72
       }
     ],
     "sections": [
@@ -527,11 +499,7 @@
         ]
       },
       {
-        "name": "Playtest 2026-10-03: Final refill row: equip a special weapon and drain some weapon energy before collecting weapon refills. Pickup insanity must be enabled.",
-        "item_count": 0
-      },
-      {
-        "name": "Collection tip: Lower some weapon energy and stay to the far left. Highlighted refill-row reference; source atlas masks the pickup sprites.",
+        "name": "Pickup insanity: stay to the far left to collect these 11 checks.",
         "item_count": 0
       }
     ]
@@ -546,7 +514,7 @@
         "map": "full2",
         "x": 6975,
         "y": 535,
-        "size": 48
+        "size": 72
       }
     ],
     "sections": [
@@ -558,11 +526,7 @@
         ]
       },
       {
-        "name": "Playtest 2026-10-03: Final refill row: equip a special weapon and drain some weapon energy before collecting weapon refills. Pickup insanity must be enabled.",
-        "item_count": 0
-      },
-      {
-        "name": "Collection tip: Lower some weapon energy and stay to the far left. Highlighted refill-row reference; source atlas masks the pickup sprites.",
+        "name": "Pickup insanity: stay to the far left to collect these 11 checks.",
         "item_count": 0
       }
     ]
@@ -577,7 +541,7 @@
         "map": "full2",
         "x": 7125,
         "y": 535,
-        "size": 48
+        "size": 72
       }
     ],
     "sections": [
@@ -589,11 +553,7 @@
         ]
       },
       {
-        "name": "Playtest 2026-10-03: Final refill row: equip a special weapon and drain some weapon energy before collecting weapon refills. Pickup insanity must be enabled.",
-        "item_count": 0
-      },
-      {
-        "name": "Collection tip: Lower some weapon energy and stay to the far left. Highlighted refill-row reference; source atlas masks the pickup sprites.",
+        "name": "Pickup insanity: stay to the far left to collect these 11 checks.",
         "item_count": 0
       }
     ]
@@ -608,7 +568,7 @@
         "map": "full2",
         "x": 7275,
         "y": 535,
-        "size": 48
+        "size": 72
       }
     ],
     "sections": [
@@ -620,11 +580,7 @@
         ]
       },
       {
-        "name": "Playtest 2026-10-03: Final refill row: equip a special weapon and drain some weapon energy before collecting weapon refills. Pickup insanity must be enabled.",
-        "item_count": 0
-      },
-      {
-        "name": "Collection tip: Lower some weapon energy and stay to the far left. Highlighted refill-row reference; source atlas masks the pickup sprites.",
+        "name": "Pickup insanity: stay to the far left to collect these 11 checks.",
         "item_count": 0
       }
     ]
@@ -639,7 +595,7 @@
         "map": "full2",
         "x": 7425,
         "y": 535,
-        "size": 48
+        "size": 72
       }
     ],
     "sections": [
@@ -651,11 +607,7 @@
         ]
       },
       {
-        "name": "Playtest 2026-10-03: Final refill row: equip a special weapon and drain some weapon energy before collecting weapon refills. Pickup insanity must be enabled.",
-        "item_count": 0
-      },
-      {
-        "name": "Collection tip: Lower some weapon energy and stay to the far left. Highlighted refill-row reference; source atlas masks the pickup sprites.",
+        "name": "Pickup insanity: stay to the far left to collect these 11 checks.",
         "item_count": 0
       }
     ]
@@ -670,7 +622,7 @@
         "map": "full1",
         "x": 8120,
         "y": 325,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -697,7 +649,7 @@
         "map": "full1",
         "x": 4802,
         "y": 888,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -728,7 +680,7 @@
         "map": "full1",
         "x": 6317,
         "y": 691,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -759,7 +711,7 @@
         "map": "full1",
         "x": 6728,
         "y": 675,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -786,7 +738,7 @@
         "map": "full1",
         "x": 7400,
         "y": 926,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -813,7 +765,7 @@
         "map": "full1",
         "x": 1129,
         "y": 664,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -840,7 +792,7 @@
         "map": "full1",
         "x": 5287,
         "y": 828,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -867,7 +819,7 @@
         "map": "full4",
         "x": 8040,
         "y": 80,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -894,7 +846,7 @@
         "map": "full4",
         "x": 936,
         "y": 754,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -921,7 +873,7 @@
         "map": "full4",
         "x": 5868,
         "y": 564,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -948,7 +900,7 @@
         "map": "full4",
         "x": 6784,
         "y": 219,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -973,9 +925,9 @@
     "map_locations": [
       {
         "map": "full4",
-        "x": 5608,
-        "y": 556,
-        "size": 98
+        "x": 5622,
+        "y": 484,
+        "size": 72
       }
     ],
     "sections": [
@@ -987,11 +939,7 @@
         ]
       },
       {
-        "name": "Room reference \u2014 hidden bolt pixel unverified",
-        "item_count": 0
-      },
-      {
-        "name": "Guide route: Airship cannon panel",
+        "name": "Homing Sniper OR Astro Crush. Either is green; neither is red.",
         "item_count": 0
       }
     ]
@@ -1006,7 +954,7 @@
         "map": "full4",
         "x": 6424,
         "y": 220,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -1029,7 +977,7 @@
         "map": "full4",
         "x": 7208,
         "y": 204,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -1052,7 +1000,7 @@
         "map": "full3",
         "x": 8100,
         "y": 312,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -1079,7 +1027,7 @@
         "map": "full3",
         "x": 4232,
         "y": 265,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -1106,7 +1054,7 @@
         "map": "full3",
         "x": 2348,
         "y": 249,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -1133,7 +1081,7 @@
         "map": "full3",
         "x": 4951,
         "y": 175,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -1160,7 +1108,7 @@
         "map": "full3",
         "x": 6163,
         "y": 143,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -1187,7 +1135,7 @@
         "map": "full3",
         "x": 6874,
         "y": 143,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -1214,7 +1162,7 @@
         "map": "full3",
         "x": 3644,
         "y": 228,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -1241,7 +1189,7 @@
         "map": "full3",
         "x": 5137,
         "y": 37,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -1268,7 +1216,7 @@
         "map": "full3",
         "x": 6519,
         "y": 144,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -1291,7 +1239,7 @@
         "map": "full9",
         "x": 5240,
         "y": 648,
-        "size": 64
+        "size": 47
       }
     ],
     "sections": [
@@ -1318,7 +1266,7 @@
         "map": "full9",
         "x": 1451,
         "y": 1145,
-        "size": 64
+        "size": 47
       }
     ],
     "sections": [
@@ -1345,7 +1293,7 @@
         "map": "full9",
         "x": 2064,
         "y": 1751,
-        "size": 64
+        "size": 47
       }
     ],
     "sections": [
@@ -1372,7 +1320,7 @@
         "map": "full9",
         "x": 736,
         "y": 1735,
-        "size": 64
+        "size": 47
       }
     ],
     "sections": [
@@ -1399,7 +1347,7 @@
         "map": "full9",
         "x": 3984,
         "y": 135,
-        "size": 64
+        "size": 47
       }
     ],
     "sections": [
@@ -1426,7 +1374,7 @@
         "map": "full9",
         "x": 1248,
         "y": 952,
-        "size": 64
+        "size": 47
       }
     ],
     "sections": [
@@ -1449,7 +1397,7 @@
         "map": "full9",
         "x": 440,
         "y": 1976,
-        "size": 64
+        "size": 47
       }
     ],
     "sections": [
@@ -1476,7 +1424,7 @@
         "map": "full9",
         "x": 3792,
         "y": 696,
-        "size": 64
+        "size": 47
       }
     ],
     "sections": [
@@ -1503,7 +1451,7 @@
         "map": "full6",
         "x": 7670,
         "y": 4350,
-        "size": 94
+        "size": 69
       }
     ],
     "sections": [
@@ -1530,7 +1478,7 @@
         "map": "full6",
         "x": 3000,
         "y": 1427,
-        "size": 94
+        "size": 69
       }
     ],
     "sections": [
@@ -1557,7 +1505,7 @@
         "map": "full6",
         "x": 5000,
         "y": 1735,
-        "size": 94
+        "size": 69
       }
     ],
     "sections": [
@@ -1582,9 +1530,9 @@
     "map_locations": [
       {
         "map": "full6",
-        "x": 5528,
-        "y": 2791,
-        "size": 94
+        "x": 5529,
+        "y": 2789,
+        "size": 69
       }
     ],
     "sections": [
@@ -1611,7 +1559,7 @@
         "map": "full6",
         "x": 5904,
         "y": 3191,
-        "size": 94
+        "size": 69
       }
     ],
     "sections": [
@@ -1642,7 +1590,7 @@
         "map": "full6",
         "x": 3856,
         "y": 1319,
-        "size": 94
+        "size": 69
       }
     ],
     "sections": [
@@ -1669,7 +1617,7 @@
         "map": "full6",
         "x": 3616,
         "y": 1288,
-        "size": 94
+        "size": 69
       }
     ],
     "sections": [
@@ -1692,7 +1640,7 @@
         "map": "full6",
         "x": 4998,
         "y": 1640,
-        "size": 94
+        "size": 69
       }
     ],
     "sections": [
@@ -1715,7 +1663,7 @@
         "map": "full6",
         "x": 5576,
         "y": 2792,
-        "size": 94
+        "size": 69
       }
     ],
     "sections": [
@@ -1736,9 +1684,9 @@
     "map_locations": [
       {
         "map": "full6",
-        "x": 5552,
-        "y": 2792,
-        "size": 94
+        "x": 5554,
+        "y": 2789,
+        "size": 69
       }
     ],
     "sections": [
@@ -1761,7 +1709,7 @@
         "map": "full6",
         "x": 5928,
         "y": 1912,
-        "size": 94
+        "size": 69
       }
     ],
     "sections": [
@@ -1782,9 +1730,9 @@
     "map_locations": [
       {
         "map": "full6",
-        "x": 6000,
-        "y": 4024,
-        "size": 94
+        "x": 6001,
+        "y": 4022,
+        "size": 69
       }
     ],
     "sections": [
@@ -1805,9 +1753,9 @@
     "map_locations": [
       {
         "map": "full6",
-        "x": 5968,
-        "y": 4024,
-        "size": 94
+        "x": 5969,
+        "y": 4018,
+        "size": 69
       }
     ],
     "sections": [
@@ -1830,7 +1778,7 @@
         "map": "full6",
         "x": 6816,
         "y": 4632,
-        "size": 94
+        "size": 69
       }
     ],
     "sections": [
@@ -1853,7 +1801,7 @@
         "map": "full7",
         "x": 8120,
         "y": 1790,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -1880,7 +1828,7 @@
         "map": "full7",
         "x": 3217,
         "y": 1843,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -1911,7 +1859,7 @@
         "map": "full7",
         "x": 3405,
         "y": 430,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -1942,7 +1890,7 @@
         "map": "full7",
         "x": 5351,
         "y": 1968,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -1973,7 +1921,7 @@
         "map": "full7",
         "x": 6474,
         "y": 1858,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -2002,9 +1950,9 @@
     "map_locations": [
       {
         "map": "full7",
-        "x": 3484,
-        "y": 934,
-        "size": 98
+        "x": 3482,
+        "y": 933,
+        "size": 72
       }
     ],
     "sections": [
@@ -2025,9 +1973,9 @@
     "map_locations": [
       {
         "map": "full7",
-        "x": 3507,
-        "y": 934,
-        "size": 98
+        "x": 3506,
+        "y": 932,
+        "size": 72
       }
     ],
     "sections": [
@@ -2050,7 +1998,7 @@
         "map": "full8",
         "x": 8090,
         "y": 598,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -2077,7 +2025,7 @@
         "map": "full8",
         "x": 1914,
         "y": 1072,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -2104,7 +2052,7 @@
         "map": "full8",
         "x": 2907,
         "y": 1026,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -2131,7 +2079,7 @@
         "map": "full8",
         "x": 2979,
         "y": 337,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -2158,7 +2106,7 @@
         "map": "full8",
         "x": 5337,
         "y": 351,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -2187,9 +2135,9 @@
     "map_locations": [
       {
         "map": "full8",
-        "x": 2413,
-        "y": 834,
-        "size": 98
+        "x": 2411,
+        "y": 833,
+        "size": 72
       }
     ],
     "sections": [
@@ -2214,9 +2162,9 @@
     "map_locations": [
       {
         "map": "full8",
-        "x": 2441,
-        "y": 834,
-        "size": 98
+        "x": 2439,
+        "y": 830,
+        "size": 72
       }
     ],
     "sections": [
@@ -2243,7 +2191,7 @@
         "map": "full0",
         "x": 2057,
         "y": 209,
-        "size": 66
+        "size": 48
       }
     ],
     "sections": [
@@ -2270,7 +2218,7 @@
         "map": "full0",
         "x": 2736,
         "y": 727,
-        "size": 24
+        "size": 48
       }
     ],
     "sections": [
@@ -2297,7 +2245,7 @@
         "map": "full0",
         "x": 3328,
         "y": 839,
-        "size": 24
+        "size": 48
       }
     ],
     "sections": [
@@ -2324,7 +2272,7 @@
         "map": "full0",
         "x": 3536,
         "y": 407,
-        "size": 24
+        "size": 48
       }
     ],
     "sections": [
@@ -2351,7 +2299,7 @@
         "map": "full0",
         "x": 3152,
         "y": 216,
-        "size": 24
+        "size": 48
       }
     ],
     "sections": [
@@ -2374,7 +2322,7 @@
         "map": "full5",
         "x": 1230,
         "y": 1470,
-        "size": 24
+        "size": 22
       }
     ],
     "sections": [
@@ -2401,7 +2349,7 @@
         "map": "full5",
         "x": 304,
         "y": 135,
-        "size": 28
+        "size": 22
       }
     ],
     "sections": [
@@ -2428,7 +2376,7 @@
         "map": "full5",
         "x": 928,
         "y": 151,
-        "size": 28
+        "size": 22
       }
     ],
     "sections": [
@@ -2455,7 +2403,7 @@
         "map": "full10",
         "x": 8100,
         "y": 265,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -2482,7 +2430,7 @@
         "map": "full10",
         "x": 7920,
         "y": 298,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -2505,7 +2453,7 @@
         "map": "full10",
         "x": 8000,
         "y": 269,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -2528,7 +2476,7 @@
         "map": "full11",
         "x": 7935,
         "y": 399,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -2555,7 +2503,7 @@
         "map": "full11",
         "x": 4623,
         "y": 452,
-        "size": 98
+        "size": 72
       }
     ],
     "sections": [
@@ -2578,7 +2526,7 @@
         "map": "full12",
         "x": 6100,
         "y": 405,
-        "size": 75
+        "size": 55
       }
     ],
     "sections": [
@@ -2605,7 +2553,7 @@
         "map": "full12",
         "x": 3272,
         "y": 136,
-        "size": 75
+        "size": 55
       }
     ],
     "sections": [
@@ -2632,7 +2580,7 @@
         "map": "full12",
         "x": 2528,
         "y": 360,
-        "size": 75
+        "size": 55
       }
     ],
     "sections": [
@@ -2655,7 +2603,7 @@
         "map": "full12",
         "x": 3712,
         "y": 488,
-        "size": 75
+        "size": 55
       }
     ],
     "sections": [
@@ -2678,7 +2626,7 @@
         "map": "full12",
         "x": 4256,
         "y": 360,
-        "size": 75
+        "size": 55
       }
     ],
     "sections": [
@@ -2701,7 +2649,7 @@
         "map": "full13",
         "x": 216,
         "y": 592,
-        "size": 24
+        "size": 22
       }
     ],
     "sections": [
@@ -2728,7 +2676,7 @@
         "map": "full13",
         "x": 56,
         "y": 704,
-        "size": 24
+        "size": 22
       }
     ],
     "sections": [
@@ -2755,7 +2703,7 @@
         "map": "full13",
         "x": 56,
         "y": 592,
-        "size": 24
+        "size": 22
       }
     ],
     "sections": [
@@ -2782,7 +2730,7 @@
         "map": "full13",
         "x": 216,
         "y": 700,
-        "size": 24
+        "size": 22
       }
     ],
     "sections": [
@@ -2809,7 +2757,7 @@
         "map": "full13",
         "x": 472,
         "y": 586,
-        "size": 24
+        "size": 22
       }
     ],
     "sections": [
@@ -2836,7 +2784,7 @@
         "map": "full13",
         "x": 472,
         "y": 700,
-        "size": 24
+        "size": 22
       }
     ],
     "sections": [
@@ -2863,7 +2811,7 @@
         "map": "full13",
         "x": 312,
         "y": 580,
-        "size": 24
+        "size": 22
       }
     ],
     "sections": [
@@ -2890,7 +2838,7 @@
         "map": "full13",
         "x": 312,
         "y": 700,
-        "size": 24
+        "size": 22
       }
     ],
     "sections": [
@@ -3325,7 +3273,7 @@
         "map": "full2",
         "x": 2519,
         "y": 855,
-        "size": 48
+        "size": 72
       }
     ],
     "sections": [
@@ -3337,31 +3285,35 @@
         ]
       },
       {
-        "name": "0.2.1 pickup insanity: break the ice block on the ledge above Bolt 6. Seed logic requires Astro Crush. Marker is a room reference; exact pixel not yet verified.",
+        "name": "Break the ice with Astro Crush OR Flame Sword.",
         "item_count": 0
       }
     ]
   },
   {
-    "name": "Frost Man - Missing ice capsule (untracked field Energy 3)",
+    "name": "Frost Man - Large Life Energy 6",
     "visibility_rules": [
-      "$mm8_missing_frost_capsule_visible"
+      "$mm8_visible|5480343"
     ],
     "map_locations": [
       {
         "map": "full2",
-        "x": 2063,
-        "y": 1060,
-        "size": 40
+        "x": 2066,
+        "y": 1059,
+        "size": 72
       }
     ],
     "sections": [
       {
-        "name": "Not an AP check in 0.2.2; cannot be auto-tracked. Beside Bolt 4. Tornado Hold is green; airborne Mega Ball jumps are yellow. Existing Energy 2 marker moved to its reported room after Bolt 3.",
-        "item_count": 0,
+        "name": "Frost Man - Large Life Energy 6",
+        "item_count": 1,
         "access_rules": [
-          "^$mm8_missing_frost_capsule_level"
+          "^$mm8_access_level|5480343"
         ]
+      },
+      {
+        "name": "APWorld 0.2.3: lower stacked ice block beside Bolt 4, screenshot-confirmed. Tornado Hold: green; Mega Ball airborne jump: yellow; neither: red.",
+        "item_count": 0
       }
     ]
   }

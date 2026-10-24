@@ -140,10 +140,21 @@ local function can_enter_stage(stage_name)
     return true
 end
 
+-- 0.2.3 adds one pickup. A connected seed's location set is authoritative.
+function mm8_is_v023()
+    if mm8_connected and seed_locations ~= nil then
+        return seed_locations[5480343] == true
+    end
+    return is_modern_world() and mm8_is_v021() and has_code('opt_world_v023')
+end
+
 function mm8_visible(id)
     id = tonumber(id)
     if seed_locations ~= nil then
         return seed_locations[id] == true
+    end
+    if id == 5480343 then
+        return mm8_is_v023() and is_option_enabled('pickupsanity')
     end
     if id == LOCATION.FROST_MAN_LARGE_LIFE_ENERGY_5 then
         return mm8_is_v021() and is_option_enabled('pickupsanity')
@@ -240,25 +251,6 @@ function mm8_access(id)
     return false
 end
 
--- Informational capsule absent from APWorld: no AP ID or chest count.
-function mm8_missing_frost_capsule_visible()
-    return is_option_enabled('pickupsanity')
-end
-
-function mm8_missing_frost_capsule_access()
-    local refresh_dependency = has_code('logic_refresh')
-    if not can_enter_stage('Frost Man') then
-        return false
-    end
-    if has_item('Tornado Hold') then
-        return true
-    end
-    if has_item('Mega Ball') then
-        return AccessibilityLevel.SequenceBreak
-    end
-    return false
-end
-
 -- PopTracker `$` rules treat numbers as item counts; `^$` rules interpret
 -- them as accessibility levels. Convert booleans before using the latter.
 local function as_accessibility_level(result)
@@ -275,6 +267,3 @@ function mm8_access_level(id)
     return as_accessibility_level(mm8_access(id))
 end
 
-function mm8_missing_frost_capsule_level()
-    return as_accessibility_level(mm8_missing_frost_capsule_access())
-end
